@@ -1,20 +1,20 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,D,T,A,E,U,Y,F,L,Z,K,R,O,B,N={
-aRg:function(){return new N.Qd(null)},
-Qd:function Qd(d){this.a=d},
-aeP:function aeP(d){this.a=d},
-aeQ:function aeQ(d){this.a=d},
-aeR:function aeR(d){this.a=d},
-aeU:function aeU(d){this.a=d},
-aeV:function aeV(d){this.a=d},
-aeW:function aeW(d){this.a=d},
-aeX:function aeX(){},
-aeY:function aeY(d){this.a=d},
-aeZ:function aeZ(){},
-af_:function af_(d){this.a=d},
-af0:function af0(){},
-aeS:function aeS(){},
-aeT:function aeT(d){this.a=d}},Q,V,S,X,G,M
+aQJ:function(){return new N.Q_(null)},
+Q_:function Q_(d){this.a=d},
+aeq:function aeq(d){this.a=d},
+aer:function aer(d){this.a=d},
+aes:function aes(d){this.a=d},
+aev:function aev(d){this.a=d},
+aew:function aew(d){this.a=d},
+aex:function aex(d){this.a=d},
+aey:function aey(){},
+aez:function aez(d){this.a=d},
+aeA:function aeA(){},
+aeB:function aeB(d){this.a=d},
+aeC:function aeC(){},
+aet:function aet(){},
+aeu:function aeu(d){this.a=d}},Q,V,S,X,G,M
 a.setFunctionNamesIfNecessary([N])
 C=c[0]
 H=c[1]
@@ -41,104 +41,104 @@ S=c[21]
 X=c[22]
 G=c[23]
 M=c[24]
-N.Qd.prototype={
-C:function(d,e){var x,w,v,u,t,s,r,q=null,p=new N.aeP(this),o=new N.aeQ(this),n=Z.uX(q),m=y.q
+N.Q_.prototype={
+D:function(d,e){var x,w,v,u,t,s,r,q=null,p=new N.aeq(this),o=new N.aer(this),n=Z.uP(q),m=y.q
 L.cg(e,C.a6,m).toString
 x=y.h
-w=o.$1(T.cH("About",q,"about",H.a([],x),q))
+w=o.$1(T.cF("About",q,"about",H.a([],x),q))
 L.cg(e,C.a6,m).toString
-v=o.$1(T.cH("Status",q,"status",H.a([],x),q))
+v=o.$1(T.cF("Status",q,"status",H.a([],x),q))
 L.cg(e,C.a6,m).toString
 u=y.u
-v=H.a([w,v,o.$1(T.cH("Legal",q,"legal",H.a([],x),q))],u)
-w=H.a([Z.uX(q),Z.uX(q),Z.uX(q)],u)
+v=H.a([w,v,o.$1(T.cF("Legal",q,"legal",H.a([],x),q))],u)
+w=H.a([Z.uP(q),Z.uP(q),Z.uP(q)],u)
 L.cg(e,C.a6,m).toString
-t=U.hn(p.$1(T.cH("About Me",q,"about_me",H.a([],x),q)),new N.aeR(e),C.bJ)
+t=U.hk(p.$1(T.cF("About Me",q,"about_me",H.a([],x),q)),new N.aes(e),C.bH)
 L.cg(e,C.a6,m).toString
-s=U.hn(p.$1(T.cH("Services",q,"services",H.a([],x),q)),new N.aeU(e),C.bJ)
+s=U.hk(p.$1(T.cF("Services",q,"services",H.a([],x),q)),new N.aev(e),C.bH)
 L.cg(e,C.a6,m).toString
-s=H.a([t,s,U.hn(p.$1(T.cH("Cookie Policy",q,"cookie_policy",H.a([],x),q)),new N.aeV(e),C.bJ)],u)
+s=H.a([t,s,U.hk(p.$1(T.cF("Cookie Policy",q,"cookie_policy",H.a([],x),q)),new N.aew(e),C.bH)],u)
 L.cg(e,C.a6,m).toString
-t=U.hn(p.$1(T.cH("About the Webpages",q,"about_the_webpages",H.a([],x),q)),new N.aeW(e),C.bJ)
+t=U.hk(p.$1(T.cF("About the Webpages",q,"about_the_webpages",H.a([],x),q)),new N.aex(e),C.bH)
 L.cg(e,C.a6,m).toString
-r=U.hn(p.$1(T.cH("Website Status",q,"website_status",H.a([],x),q)),new N.aeX(),C.bJ)
+r=U.hk(p.$1(T.cF("Website Status",q,"website_status",H.a([],x),q)),new N.aey(),C.bH)
 L.cg(e,C.a6,m).toString
-r=H.a([t,r,U.hn(p.$1(T.cH("Disclaimer",q,"disclaimer",H.a([],x),q)),new N.aeY(e),C.bJ)],u)
+r=H.a([t,r,U.hk(p.$1(T.cF("Disclaimer",q,"disclaimer",H.a([],x),q)),new N.aez(e),C.bH)],u)
 L.cg(e,C.a6,m).toString
-t=H.a([U.hn(p.$1(T.cH("My Github",q,"my_github",H.a([],x),q)),new N.aeZ(),C.bJ),U.hn(p.$1("Web Browser"),new N.af_(e),C.bJ),M.ar(q,q,C.j,q,q,q,q,q,q,q,q,q,q)],u)
+t=H.a([U.hk(p.$1(T.cF("My Github",q,"my_github",H.a([],x),q)),new N.aeA(),C.bH),U.hk(p.$1("Web Browser"),new N.aeB(e),C.bH),M.aq(q,q,C.h,q,q,q,q,q,q,q,q,q,q,q)],u)
 L.cg(e,C.a6,m).toString
-t=S.aTm(q,H.a([new S.fq(q,v),new S.fq(q,w),new S.fq(q,s),new S.fq(q,r),new S.fq(q,t),new S.fq(q,H.a([U.hn(p.$1(T.cH("My Linkedin Profile",q,"my_linkedin_profile",H.a([],x),q)),new N.af0(),C.bJ),M.ar(q,q,C.j,q,q,q,q,q,q,q,q,q,q),M.ar(q,q,C.j,q,q,q,q,q,q,q,q,q,q)],u))],y.m),C.jH,C.ft)
-r=Z.uX(3)
+t=S.aSS(q,H.a([new S.fo(q,v),new S.fo(q,w),new S.fo(q,s),new S.fo(q,r),new S.fo(q,t),new S.fo(q,H.a([U.hk(p.$1(T.cF("My Linkedin Profile",q,"my_linkedin_profile",H.a([],x),q)),new N.aeC(),C.bH),M.aq(q,q,C.h,q,q,q,q,q,q,q,q,q,q,q),M.aq(q,q,C.h,q,q,q,q,q,q,q,q,q,q,q)],u))],y.m),C.jE,C.fs)
+r=Z.uP(3)
 L.cg(e,C.a6,m).toString
-s=F.aRM(new N.aeS(),q,T.cH("Jialin Li's Portfolio \xa9 2021 by Jialin Li is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/",q,"license_announcement",H.a([],x),q),C.az)
+s=F.aRf(new N.aet(),q,T.cF("Jialin Li's Portfolio \xa9 2021 by Jialin Li is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/",q,"license_announcement",H.a([],x),q),C.ay)
 L.cg(e,C.a6,m).toString
-return M.ar(C.X,T.cE(H.a([n,t,r,new T.bm(new V.au(10,10,10,10),s,q),U.hn(p.$1(T.cH("Contact Me",q,"contact_me",H.a([],x),q)),new N.aeT(e),C.bJ)],u),C.D,C.F,C.C,q,C.P),C.j,q,q,new S.bj(C.YE,q,q,q,q,q,q,C.y),q,q,q,q,q,q,q)}}
-var z=a.updateTypes(["a4<~>(ir)"])
-N.aeP.prototype={
+return M.aq(C.a2,T.cO(H.a([n,t,r,new T.bh(new V.at(10,10,10,10),s,q),U.hk(p.$1(T.cF("Contact Me",q,"contact_me",H.a([],x),q)),new N.aeu(e),C.bH)],u),C.C,C.G,C.D,q,C.S),C.h,q,q,new S.bg(C.YA,q,q,q,q,q,q,C.y),q,q,q,q,q,q,q,q)}}
+var z=a.updateTypes(["a4<~>(io)"])
+N.aeq.prototype={
 $1:function(d){var x=null
-return L.aM(d,x,x,x,x,C.az,x)},
-$S:168}
-N.aeQ.prototype={
+return L.aL(d,x,x,x,x,C.ay,x)},
+$S:133}
+N.aer.prototype={
 $1:function(d){var x=null
-return L.aM(d,x,x,x,C.a9d,C.az,x)},
-$S:168}
-N.aeR.prototype={
-$0:function(){return Y.cz(this.a,!1,y.d).dm("about-me")},
+return L.aL(d,x,x,x,C.a98,C.ay,x)},
+$S:133}
+N.aes.prototype={
+$0:function(){return Y.d9(this.a,!1,y.d).du("about-me")},
 $S:0}
-N.aeU.prototype={
-$0:function(){return Y.cz(this.a,!1,y.d).dm("services")},
+N.aev.prototype={
+$0:function(){return Y.d9(this.a,!1,y.d).du("services")},
 $S:0}
-N.aeV.prototype={
-$0:function(){return Y.cz(this.a,!1,y.d).dm("cookie-policy")},
+N.aew.prototype={
+$0:function(){return Y.d9(this.a,!1,y.d).du("cookie-policy")},
 $S:0}
-N.aeW.prototype={
-$0:function(){return Y.cz(this.a,!1,y.d).dm("about-the-webpages")},
+N.aex.prototype={
+$0:function(){return Y.d9(this.a,!1,y.d).du("about-the-webpages")},
 $S:0}
-N.aeX.prototype={
-$0:function(){return T.nD("https://stats.uptimerobot.com/vDYQ8hWXoM/788299671")},
+N.aey.prototype={
+$0:function(){return T.nx("https://stats.uptimerobot.com/vDYQ8hWXoM/788299671")},
 $S:0}
-N.aeY.prototype={
-$0:function(){return Y.cz(this.a,!1,y.d).dm("disclaimer")},
+N.aez.prototype={
+$0:function(){return Y.d9(this.a,!1,y.d).du("disclaimer")},
 $S:0}
-N.aeZ.prototype={
-$0:function(){return T.nD("https://github.com/keyskull")},
+N.aeA.prototype={
+$0:function(){return T.nx("https://github.com/keyskull")},
 $S:0}
-N.af_.prototype={
-$0:function(){return Y.cz(this.a,!1,y.d).dm("web_browser")},
+N.aeB.prototype={
+$0:function(){return Y.d9(this.a,!1,y.d).du("web_browser")},
 $S:0}
-N.af0.prototype={
-$0:function(){return T.nD("https://www.linkedin.com/in/cullenlee/")},
+N.aeC.prototype={
+$0:function(){return T.nx("https://www.linkedin.com/in/cullenlee/")},
 $S:0}
-N.aeS.prototype={
-$1:function(d){return this.a_R(d)},
-a_R:function(d){var x=0,w=P.I(y.v),v
+N.aet.prototype={
+$1:function(d){return this.a_s(d)},
+a_s:function(d){var x=0,w=P.I(y.v),v
 var $async$$1=P.D(function(e,f){if(e===1)return P.F(f,w)
 while(true)switch(x){case 0:v=d.b
 x=5
-return P.M(T.Ks(v),$async$$1)
+return P.M(T.Kd(v),$async$$1)
 case 5:x=f?2:4
 break
 case 2:x=6
-return P.M(T.nD(v),$async$$1)
+return P.M(T.nx(v),$async$$1)
 case 6:x=3
 break
 case 4:throw H.b("Could not launch "+d.j(0))
 case 3:return P.G(null,w)}})
 return P.H($async$$1,w)},
 $S:z+0}
-N.aeT.prototype={
-$0:function(){return Y.cz(this.a,!1,y.d).dm("contact")},
+N.aeu.prototype={
+$0:function(){return Y.d9(this.a,!1,y.d).du("contact")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(N.Qd,N.a0)
-w(H.cr,[N.aeP,N.aeQ,N.aeR,N.aeU,N.aeV,N.aeW,N.aeX,N.aeY,N.aeZ,N.af_,N.af0,N.aeS,N.aeT])})()
-H.fg(b.typeUniverse,JSON.parse('{"Qd":{"a0":[],"f":[]}}'))
+x(N.Q_,N.a2)
+w(H.cC,[N.aeq,N.aer,N.aes,N.aev,N.aew,N.aex,N.aey,N.aez,N.aeA,N.aeB,N.aeC,N.aet,N.aeu])})()
+H.ff(b.typeUniverse,JSON.parse('{"Q_":{"a2":[],"f":[]}}'))
 0
-var y={h:H.L("m<w>"),m:H.L("m<fq>"),u:H.L("m<f>"),d:H.L("k7"),q:H.L("hi"),v:H.L("~")};(function constants(){C.bJ=new A.bY(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null)
-C.CH=new P.B(4294960511)
-C.CG=new P.B(4294956864)
-C.CE=new P.B(4294951936)
-C.CD=new P.B(4294945536)
-C.XH=new H.c7([100,C.CH,200,C.CG,400,C.CE,700,C.CD],H.L("c7<k,B>"))
-C.YE=new E.vW(C.XH,4294956864)
-C.a9d=new A.E(!0,null,null,null,null,null,15,C.k8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["Lspz3LrNhfI1N6RvPNi54tQ3Bl4="] = $__dart_deferred_initializers__.current
+var y={h:H.J("l<v>"),m:H.J("l<fo>"),u:H.J("l<f>"),d:H.J("iw"),q:H.J("hf"),v:H.J("~")};(function constants(){C.bH=new A.bW(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null)
+C.CE=new P.B(4294960511)
+C.CD=new P.B(4294956864)
+C.CB=new P.B(4294951936)
+C.CA=new P.B(4294945536)
+C.XD=new H.c6([100,C.CE,200,C.CD,400,C.CB,700,C.CA],H.J("c6<k,B>"))
+C.YA=new E.vN(C.XD,4294956864)
+C.a98=new A.E(!0,null,null,null,null,null,15,C.k4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["BZYA1aJz95Lw+zihXfiiIwKfAZo="] = $__dart_deferred_initializers__.current
