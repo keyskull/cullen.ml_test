@@ -53,8 +53,8 @@ const RESOURCES = {
 "main.dart.js_5.part.js": "e94f4740c66a66b8c8b76177ccf91cb1",
 "cookie-policy.html": "68e478f12cd82be5a36fc3a055f81fe1",
 "disclaimer.html": "13ff616f97e691873cf3a7b3143bcea1",
-"index.html": "62d7ad82d55df7d7a118c8d63b4c1c81",
-"/": "62d7ad82d55df7d7a118c8d63b4c1c81"
+"index.html": "2e2c12537ea741ff80bbcc95a47fc135",
+"/": "2e2c12537ea741ff80bbcc95a47fc135"
 };
 
 // The application shell files that are downloaded before a service worker can
