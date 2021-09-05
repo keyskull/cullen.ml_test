@@ -1,227 +1,272 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,D,T,A={
-b3R:function(d){return $.b3S.bz(0,d.a.b,new A.adA(d))},
-v5:function v5(d,e,f,g){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,B,T,A={
+bag:function(d){return $.bah.bB(0,d.a.b,new A.ahB(d))},
+wk:function wk(d,e,f,g){var _=this
 _.e=null
 _.f=d
 _.b=e
 _.c=f
 _.a=g},
-adA:function adA(d){this.a=d},
-adB:function adB(d){this.a=d},
-adC:function adC(){},
-kk:function kk(d){this.a=d}},E,U,Y={vT:function vT(d,e){this.c=d
-this.a=e}},F,L,Z,K={
-adP:function(){var x=0,w=P.I(y.F),v,u,t
-var $async$adP=P.D(function(d,e){if(d===1)return P.F(e,w)
-while(true)switch(x){case 0:u=$.Bz
+ahB:function ahB(d){this.a=d},
+ahC:function ahC(d){this.a=d},
+ahD:function ahD(){},
+kN:function kN(d){this.a=d}},E={ahs:function ahs(d,e){this.a=d
+this.b=e}},V,R,L,D,X={
+bai:function(){var x=new X.wl()
+x.aa0()
+return x},
+wl:function wl(){},
+ahN:function ahN(){},
+ahK:function ahK(d){this.a=d},
+ahL:function ahL(){},
+ahM:function ahM(){},
+ahJ:function ahJ(){},
+ahI:function ahI(){}},U,Y={xb:function xb(d,e){this.c=d
+this.a=e}},F,K={
+ahV:function(){var x=0,w=P.z(y.F),v,u,t
+var $async$ahV=P.u(function(d,e){if(d===1)return P.w(e,w)
+while(true)switch(x){case 0:u=$.iI
 x=3
-return P.M((u==null?$.Bz=$.aJ4():u).p_(null,null),$async$adP)
+return P.C((u==null?$.iI=$.v6():u).pH(null,null),$async$ahV)
 case 3:t=e
-E.mC(t,$.zz())
-v=new K.nX(t)
+E.h3(t,$.mv())
+v=new K.jy(t)
 x=1
 break
-case 1:return P.G(v,w)}})
-return P.H($async$adP,w)}},R,O,B,N={adL:function adL(){}},Q={
-b59:function(d){var x=new Q.rf(d,$.a6R())
-x.a85(d)
+case 1:return P.x(v,w)}})
+return P.y($async$ahV,w)}},N={ahR:function ahR(){}},Z,G,Q={
+bbC:function(d){var x=new Q.th(d,$.a9m())
+x.aaL(d)
 return x},
-rf:function rf(d,e){this.e=null
+th:function th(d,e){this.e=null
 this.b=d
 this.a=e},
-ajF:function ajF(d,e){this.a=d
+aoe:function aoe(d,e){this.a=d
 this.b=e},
-ajE:function ajE(d,e){this.a=d
+aod:function aod(d,e){this.a=d
 this.b=e},
-ajG:function ajG(d,e){this.a=d
+aof:function aof(d,e){this.a=d
 this.b=e},
-ajD:function ajD(d,e){this.a=d
+aoc:function aoc(d,e){this.a=d
 this.b=e},
-ajH:function ajH(d){this.a=d},
-ajI:function ajI(){},
-iX:function iX(d,e){this.a=d
-this.$ti=e}},V,S,X={
-b3T:function(){var x=new X.v6()
-x.a7m()
-return x},
-v6:function v6(){},
-adH:function adH(){},
-adG:function adG(){}},G,M
-a.setFunctionNamesIfNecessary([A,Y,K,N,Q,X])
+aog:function aog(d){this.a=d},
+aoh:function aoh(){},
+jm:function jm(d,e){this.a=d
+this.$ti=e}},O,S,M
+a.setFunctionNamesIfNecessary([A,E,X,Y,K,N,Q])
 C=c[0]
 H=c[1]
 J=c[2]
 P=c[3]
 W=c[4]
-D=c[5]
+B=c[5]
 T=c[6]
 A=a.updateHolder(c[7],A)
-E=c[8]
-U=c[9]
-Y=a.updateHolder(c[10],Y)
-F=c[11]
-L=c[12]
-Z=c[13]
-K=a.updateHolder(c[14],K)
-R=c[15]
-O=c[16]
-B=c[17]
+E=a.updateHolder(c[8],E)
+V=c[9]
+R=c[10]
+L=c[11]
+D=c[12]
+X=a.updateHolder(c[13],X)
+U=c[14]
+Y=a.updateHolder(c[15],Y)
+F=c[16]
+K=a.updateHolder(c[17],K)
 N=a.updateHolder(c[18],N)
-Q=a.updateHolder(c[19],Q)
-V=c[20]
-S=c[21]
-X=a.updateHolder(c[22],X)
-G=c[23]
+Z=c[19]
+G=c[20]
+Q=a.updateHolder(c[21],Q)
+O=c[22]
+S=c[23]
 M=c[24]
-A.v5.prototype={
-aiL:function(d){var x=d.$ti.i("hq<bE.T,kk?>")
-return P.b7Y(new P.hq(new A.adB(this),d,x),null,new A.adC(),x.i("bE.T"))},
+E.ahs.prototype={
+wL:function(d,e){return this.ax1(d,e)},
+ax1:function(d,e){var x=0,w=P.z(y.v),v=this
+var $async$wL=P.u(function(f,g){if(f===1)return P.w(g,w)
+while(true)switch(x){case 0:if(C.b.w(C.NE,e))throw H.b(P.e3(e,"name","Event name is reserved and cannot be used"))
+if(C.c.aP(e,"firebase_"))throw H.b(P.e3(e,"name",'Prefix "firebase_" is reserved and cannot be used.'))
+x=2
+return P.C(v.a.Cb(0,e,null),$async$wL)
+case 2:return P.x(null,w)}})
+return P.y($async$wL,w)},
+lz:function(d,e,f){return this.a3i(d,e,f)},
+a3i:function(d,e,f){var x=0,w=P.z(y.v),v=this
+var $async$lz=P.u(function(g,h){if(g===1)return P.w(h,w)
+while(true)switch(x){case 0:x=2
+return P.C(v.a.lz(0,e,f),$async$lz)
+case 2:return P.x(null,w)}})
+return P.y($async$lz,w)}}
+A.wk.prototype={
+alU:function(d){var x=d.$ti.i("dn<aI.T,kN?>")
+return P.bet(new P.dn(new A.ahC(this),d,x),null,new A.ahD(),x.i("aI.T"))},
 j:function(d){return"FirebaseAuth(app: "+this.f.a.b+")"}}
-A.kk.prototype={
+A.kN.prototype={
 j:function(d){var x="metadata",w=this.a,v=w.c
-return C.ac0.j(0)+"(displayName: "+H.c(v.h(0,"displayName"))+", email: "+H.c(v.h(0,"email"))+", emailVerified: "+H.c(v.h(0,"emailVerified"))+", isAnonymous: "+H.c(v.h(0,"isAnonymous"))+", metadata: "+new Y.au9(J.aS(v.h(0,x),"creationTime"),J.aS(v.h(0,x),"lastSignInTime")).j(0)+", phoneNumber: "+H.c(v.h(0,"phoneNumber"))+", photoURL: "+H.c(v.h(0,"photoURL"))+", providerData, "+H.c(w.gw9(w))+", refreshToken: "+H.c(v.h(0,"refreshToken"))+", tenantId: "+H.c(v.h(0,"tenantId"))+", uid: "+v.h(0,"uid")+")"}}
-Q.rf.prototype={
-a85:function(d){var x=null,w=d.a.b,v=y.w,u=y.c
-C.wo.f3("Auth#registerIdTokenListener",P.U(["appName",w],v,v),!1,v).aP(0,new Q.ajF(this,d),u)
-C.wo.f3("Auth#registerAuthStateListener",P.U(["appName",w],v,v),!1,v).aP(0,new Q.ajG(this,d),u)
+return C.aeR.j(0)+"(displayName: "+H.c(v.h(0,"displayName"))+", email: "+H.c(v.h(0,"email"))+", emailVerified: "+H.c(v.h(0,"emailVerified"))+", isAnonymous: "+H.c(v.h(0,"isAnonymous"))+", metadata: "+new Y.azr(J.aw(v.h(0,x),"creationTime"),J.aw(v.h(0,x),"lastSignInTime")).j(0)+", phoneNumber: "+H.c(v.h(0,"phoneNumber"))+", photoURL: "+H.c(v.h(0,"photoURL"))+", providerData, "+H.c(w.gxd(w))+", refreshToken: "+H.c(v.h(0,"refreshToken"))+", tenantId: "+H.c(v.h(0,"tenantId"))+", uid: "+v.h(0,"uid")+")"}}
+Q.th.prototype={
+aaL:function(d){var x=null,w=d.a.b,v=y.w,u=y.c
+C.xj.cT("Auth#registerIdTokenListener",P.S(["appName",w],v,v),!1,v).aS(0,new Q.aoe(this,d),u)
+C.xj.cT("Auth#registerAuthStateListener",P.S(["appName",w],v,v),!1,v).aS(0,new Q.aof(this,d),u)
 v=y.t
-$.aRA.m(0,w,new P.ft(x,x,v))
-$.aRB.m(0,w,new P.ft(x,x,v))
-$.aL5.m(0,w,new P.ft(x,x,v))},
-Ey:function(d,e){return this.adP(d,e)},
-adP:function(d,e){var x=0,w=P.I(y.v),v,u,t,s
-var $async$Ey=P.D(function(f,g){if(f===1)return P.F(g,w)
-while(true)switch(x){case 0:s=$.aRA.h(0,d)
+$.aXC.m(0,w,new P.dw(x,x,v))
+$.aXD.m(0,w,new P.dw(x,x,v))
+$.aQJ.m(0,w,new P.dw(x,x,v))},
+FP:function(d,e){return this.agI(d,e)},
+agI:function(d,e){var x=0,w=P.z(y.v),v,u,t,s
+var $async$FP=P.u(function(f,g){if(f===1)return P.w(g,w)
+while(true)switch(x){case 0:s=$.aXC.h(0,d)
 s.toString
-v=$.aL4.h(0,d)
+v=$.aQI.h(0,d)
 v.toString
-u=J.aS(e,"user")
+u=J.aw(e,"user")
 if(u==null){v.e=null
-s.C(0,C.mB)}else{t=new Y.vT(J.zE(u,y.w,y.b),$.Kp())
+s.B(0,C.mV)}else{t=new Y.xb(J.B3(u,y.w,y.b),$.Mi())
 v.e=t
-s.C(0,new Q.iX(t,y.e))}return P.G(null,w)}})
-return P.H($async$Ey,w)},
-EB:function(d,e){return this.aeC(d,e)},
-aeC:function(d,e){var x=0,w=P.I(y.v),v,u,t,s,r
-var $async$EB=P.D(function(f,g){if(f===1)return P.F(g,w)
-while(true)switch(x){case 0:r=$.aRB.h(0,d)
+s.B(0,new Q.jm(t,y.e))}return P.x(null,w)}})
+return P.y($async$FP,w)},
+FT:function(d,e){return this.ahC(d,e)},
+ahC:function(d,e){var x=0,w=P.z(y.v),v,u,t,s,r
+var $async$FT=P.u(function(f,g){if(f===1)return P.w(g,w)
+while(true)switch(x){case 0:r=$.aXD.h(0,d)
 r.toString
-v=$.aL5.h(0,d)
+v=$.aQJ.h(0,d)
 v.toString
-u=$.aL4.h(0,d)
+u=$.aQI.h(0,d)
 u.toString
-t=J.aS(e,"user")
+t=J.aw(e,"user")
 if(t==null){u.e=null
-r.C(0,C.mB)
-v.C(0,C.mB)}else{s=u.e=new Y.vT(J.zE(t,y.w,y.b),$.Kp())
+r.B(0,C.mV)
+v.B(0,C.mV)}else{s=u.e=new Y.xb(J.B3(t,y.w,y.b),$.Mi())
 u=y.e
-r.C(0,new Q.iX(s,u))
-v.C(0,new Q.iX(s,u))}return P.G(null,w)}})
-return P.H($async$EB,w)},
-VL:function(d){return $.aL4.bz(0,d.a.b,new Q.ajH(d))},
-Lj:function(d,e){if(d!=null)this.e=new Y.vT(d,$.Kp())
+r.B(0,new Q.jm(s,u))
+v.B(0,new Q.jm(s,u))}return P.x(null,w)}})
+return P.y($async$FT,w)},
+XE:function(d){return $.aQI.bB(0,d.a.b,new Q.aog(d))},
+MV:function(d,e){if(d!=null)this.e=new Y.xb(d,$.Mi())
 return this},
-jX:function(){var $async$jX=P.D(function(d,e){switch(d){case 2:s=v
+kG:function(){var $async$kG=P.u(function(d,e){switch(d){case 2:s=v
 x=s.pop()
 break
 case 1:t=e
 x=u}while(true)switch(x){case 0:x=3
 v=[1]
-return P.cv(P.a0Y(r.e),$async$jX,w)
-case 3:q=$.aL5.h(0,r.gUh(r).a.b)
+return P.cA(P.a3f(r.e),$async$kG,w)
+case 3:q=$.aQJ.h(0,r.gW9(r).a.b)
 q.toString
-p=H.t(q).i("e1<1>")
+p=H.r(q).i("cH<1>")
 x=4
 v=[1]
-return P.cv(P.nf(new P.hq(new Q.ajI(),new P.e1(q,p),p.i("hq<bE.T,dO?>"))),$async$jX,w)
-case 4:case 1:return P.cv(null,0,w)
-case 2:return P.cv(t,1,w)}})
-var x=0,w=P.Ka($async$jX,y.k),v,u=2,t,s=[],r=this,q,p
-return P.Kb(w)}}
-Q.iX.prototype={
+return P.cA(P.o3(new P.dn(new Q.aoh(),new P.cH(q,p),p.i("dn<aI.T,e0?>"))),$async$kG,w)
+case 4:case 1:return P.cA(null,0,w)
+case 2:return P.cA(t,1,w)}})
+var x=0,w=P.M3($async$kG,y.k),v,u=2,t,s=[],r=this,q,p
+return P.M4(w)}}
+Q.jm.prototype={
 gl:function(d){return this.a}}
-Y.vT.prototype={}
-N.adL.prototype={
-gauQ:function(){var x=this.b
-if($.adM.h(0,x)!=null&&J.aS($.adM.h(0,x),this.c)!=null)return J.aS($.adM.h(0,x),this.c)
+Y.xb.prototype={}
+N.ahR.prototype={
+gayV:function(){var x=this.b
+if($.ahS.h(0,x)!=null&&J.aw($.ahS.h(0,x),this.c)!=null)return J.aw($.ahS.h(0,x),this.c)
 x=y.b
-return P.q(x,x)}}
-X.v6.prototype={
-y4:function(){var x=0,w=P.I(y.b)
-var $async$y4=P.D(function(d,e){if(d===1)return P.F(e,w)
-while(true)switch(x){case 0:if($.S==null)N.aLV()
-$.S.toString
+return P.t(x,x)}}
+X.wl.prototype={
+f0:function(d){var x=0,w=P.z(y.b),v
+var $async$f0=P.u(function(e,f){if(e===1)return P.w(f,w)
+while(true)switch(x){case 0:if($.U==null)N.aRD()
+$.U.toString
+v=new X.ahN()
+$.b0u.m(0,C.e.j(v.gt(v)),v)
+$.b4t().d1(C.aS,"Added RoutePathListeners: "+C.e.j(v.gt(v)),null,null)
 x=2
-return P.M(K.adP(),$async$y4)
-case 2:return P.G(null,w)}})
-return P.H($async$y4,w)},
-a7m:function(){this.y4().Bw(0,new X.adH())}}
-var z=a.updateTypes(["v5()","kk?(dO?)","~(dY<kk?>)","rf()","dO?(iX<dO>)","~(kk?)"])
-A.adA.prototype={
+return P.C(K.ahV(),$async$f0)
+case 2:return P.x(null,w)}})
+return P.y($async$f0,w)},
+aa0:function(){this.f0(0).CL(0,new X.ahJ())}}
+var z=a.updateTypes(["wk()","kN?(e0?)","~(cz<kN?>)","th()","e0?(jm<e0>)","~(kN?)"])
+A.ahB.prototype={
 $0:function(){var x=this.a
-return new A.v5(x,x.a.b,"plugins.flutter.io/firebase_auth",$.aX0())},
+return new A.wk(x,x.a.b,"plugins.flutter.io/firebase_auth",$.b2e())},
 $S:z+0}
-A.adB.prototype={
+A.ahC.prototype={
 $1:function(d){if(d==null)return null
-E.mC(d,$.Kp())
-return new A.kk(d)},
+E.h3(d,$.Mi())
+return new A.kN(d)},
 $S:z+1}
-A.adC.prototype={
-$1:function(d){return d.ag(0)},
+A.ahD.prototype={
+$1:function(d){return d.a1(0)},
 $S:z+2}
-Q.ajF.prototype={
+Q.aoe.prototype={
 $1:function(d){d.toString
-new A.Bs(d,C.b6).JR().no(0,new Q.ajE(this.a,this.b))},
-$S:96}
-Q.ajE.prototype={
-$1:function(d){this.a.EB(this.b.a.b,d)},
-$S:10}
-Q.ajG.prototype={
+new A.rx(d,C.ay).xj().hA(0,new Q.aod(this.a,this.b))},
+$S:80}
+Q.aod.prototype={
+$1:function(d){this.a.FT(this.b.a.b,d)},
+$S:12}
+Q.aof.prototype={
 $1:function(d){d.toString
-new A.Bs(d,C.b6).JR().no(0,new Q.ajD(this.a,this.b))},
-$S:96}
-Q.ajD.prototype={
-$1:function(d){this.a.Ey(this.b.a.b,d)},
-$S:10}
-Q.ajH.prototype={
-$0:function(){return Q.b59(this.a)},
+new A.rx(d,C.ay).xj().hA(0,new Q.aoc(this.a,this.b))},
+$S:80}
+Q.aoc.prototype={
+$1:function(d){this.a.FP(this.b.a.b,d)},
+$S:12}
+Q.aog.prototype={
+$0:function(){return Q.bbC(this.a)},
 $S:z+3}
-Q.ajI.prototype={
+Q.aoh.prototype={
 $1:function(d){return d.a},
 $S:z+4}
-X.adH.prototype={
+X.ahN.prototype={
+$1:function(d){var x=$.aTn(),w=d.b
+x.lz(0,H.hP(H.L(d.c.De()).a,null),w).aS(0,new X.ahK(d),y.v).nw(new X.ahL(),new X.ahM())
+x.wL(0,"page_view")},
+$S:587}
+X.ahK.prototype={
+$1:function(d){return null},
+$S:73}
+X.ahL.prototype={
+$1:function(d){D.aOn().$1(": "+H.c(d))},
+$S:588}
+X.ahM.prototype={
+$1:function(d){return d instanceof F.jG},
+$S:188}
+X.ahJ.prototype={
 $1:function(d){var x,w,v,u,t,s="APP_CURRENT_USER"
-$.aNC().vH(0,"app_open")
-x=$.aX_()
+$.aTn().wL(0,"app_open")
+x=$.b2d()
 w=x.e
 if(w==null){w=x.f
-v=x.gauQ()
-u=$.aKA
-w=(u==null?$.aKA=new Q.rf(null,$.a6R()):u).VL(w)
-u=J.a8(v)
+v=x.gayV()
+u=$.aQf
+w=(u==null?$.aQf=new Q.th(null,$.a9m()):u).XE(w)
+u=J.a0(v)
 t=u.h(v,"APP_LANGUAGE_CODE")
-w=x.e=w.Lj(u.h(v,s)==null?null:P.jZ(u.h(v,s),y.w,y.b),t)}x.aiL(w.jX()).no(0,new X.adG())},
-$S:7}
-X.adG.prototype={
-$1:function(d){if(d==null)P.kw("User is currently signed out!")
-else P.kw("User is signed in!")},
-$S:z+5};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(N.adL,E.UH)
-x(A.v5,N.adL)
-w(H.cC,[A.adA,A.adB,A.adC,Q.ajF,Q.ajE,Q.ajG,Q.ajD,Q.ajH,Q.ajI,X.adH,X.adG])
-w(P.v,[A.kk,Q.iX,X.v6])
-x(Q.rf,L.PH)
-x(Y.vT,B.dO)})()
-H.ff(b.typeUniverse,JSON.parse('{"vT":{"dO":[]}}'))
+w=x.e=w.MV(u.h(v,s)==null?null:P.kn(u.h(v,s),y.w,y.b),t)}x.alU(w.kG()).hA(0,new X.ahI())},
+$S:5}
+X.ahI.prototype={
+$1:function(d){if(d==null)P.mu("User is currently signed out!")
+else P.mu("User is signed in!")},
+$S:z+5};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(P.B,[E.ahs,A.kN,Q.jm,X.wl])
+w(N.ahR,E.WQ)
+w(A.wk,N.ahR)
+x(H.cl,[A.ahB,A.ahC,A.ahD,Q.aoe,Q.aod,Q.aof,Q.aoc,Q.aog,Q.aoh,X.ahN,X.ahK,X.ahL,X.ahM,X.ahJ,X.ahI])
+w(Q.th,L.RJ)
+w(Y.xb,B.e0)})()
+H.eZ(b.typeUniverse,JSON.parse('{"xb":{"e0":[]}}'))
 0
-var y={F:H.J("nX"),c:H.J("ar"),w:H.J("i"),t:H.J("ft<iX<dO>>"),e:H.J("iX<dO>"),b:H.J("@"),k:H.J("dO?"),v:H.J("~")};(function constants(){C.wo=new A.hS("plugins.flutter.io/firebase_auth",C.b6,null)
-C.ac0=H.aD("kk")
-C.mB=new Q.iX(null,y.e)})();(function staticFields(){$.b3S=P.q(y.w,H.J("v5"))
-$.aL4=P.q(y.w,H.J("rf"))
-$.aRA=P.q(y.w,H.J("eb<iX<dO>>"))
-$.aRB=P.q(y.w,H.J("eb<iX<dO>>"))
-$.aL5=P.q(y.w,H.J("eb<iX<dO>>"))})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"bfC","aX0",function(){return new P.v()})
-x($,"bfz","aX_",function(){return A.b3R(K.b3V())})})()}
-$__dart_deferred_initializers__["sc3ch3sP1+FHmr+fFmcudboYPfQ="] = $__dart_deferred_initializers__.current
+var y={F:H.J("jy"),c:H.J("ax"),w:H.J("i"),t:H.J("dw<jm<e0>>"),e:H.J("jm<e0>"),b:H.J("@"),k:H.J("e0?"),v:H.J("~")};(function constants(){var x=a.makeConstList
+C.NE=H.a(x(["ad_activeview","ad_click","ad_exposure","ad_impression","ad_query","adunit_exposure","app_clear_data","app_uninstall","app_update","error","first_open","first_visit","in_app_purchase","notification_dismiss","notification_foreground","notification_open","notification_receive","os_update","session_start","user_engagement"]),H.J("l<i>"))
+C.xj=new A.fq("plugins.flutter.io/firebase_auth",C.ay,null)
+C.aeR=H.aH("kN")
+C.mV=new Q.jm(null,y.e)})();(function staticFields(){$.bah=P.t(y.w,H.J("wk"))
+$.aQI=P.t(y.w,H.J("th"))
+$.aXC=P.t(y.w,H.J("dM<jm<e0>>"))
+$.aXD=P.t(y.w,H.J("dM<jm<e0>>"))
+$.aQJ=P.t(y.w,H.J("dM<jm<e0>>"))})();(function lazyInitializers(){var x=a.lazyFinal
+x($,"bmc","b2e",function(){return new P.B()})
+x($,"bma","aTn",function(){var w=$.b2a()
+U.fu()
+return new E.ahs(w,null)})
+x($,"bm9","b2d",function(){return A.bag(K.bak())})
+x($,"bq6","b4t",function(){return F.ls(Z.b9q("Router"))})})()}
+$__dart_deferred_initializers__["CAxZeLt0/QmP/XsczernAUU2It4="] = $__dart_deferred_initializers__.current
