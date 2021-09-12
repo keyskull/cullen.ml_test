@@ -17,7 +17,7 @@ _.db=q
 _.dx=r
 _.dy=s
 _.a=t}},C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U={
-aML(d,e,f,g,h){return d==null?null:d.hw(new P.J(f,h,g,e))},
+aMM(d,e,f,g,h){return d==null?null:d.hw(new P.J(f,h,g,e))},
 Ys:function Ys(){},
 asY:function asY(d,e,f){this.a=d
 this.b=e
@@ -26,7 +26,7 @@ Yt:function Yt(){},
 Gs:function Gs(){},
 a65:function a65(){},
 a66:function a66(){},
-awn:function awn(){},
+awo:function awo(){},
 Zu:function Zu(d,e,f,g){var _=this
 _.c=d
 _.d=e
@@ -51,7 +51,7 @@ _.Q=_.z=null
 _.ch=!1
 _.cx=!0
 _.dx=_.db=_.cy=!1},
-aJs:function aJs(d,e,f){this.a=d
+aJt:function aJt(d,e,f){this.a=d
 this.b=e
 this.c=f},
 v5:function v5(){},
@@ -126,16 +126,16 @@ x=y.f
 t=T.aiy(C.cX,M.as(w,new Z.Iz(T.cL("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",w,"header_description",H.a([],x),w),150,t,w),C.h,w,new S.au(0,v.a*0.8,0,1/0),w,w,w,w,w,w,w,w),C.h,C.dD)
 L.co(d,C.a8,s).toString
 s=y.p
-return Z.Zo(T.dY(C.Y,H.a([u,t,new T.eL(C.cX,w,w,B.U7(w,!1,T.cf(H.a([L.aS(T.cL("More",w,"more",H.a([],x),w),w,w,w,A.b4(w,w,C.m,w,w,w,w,w,w,w,w,w,w,w,w,w,!0,w,w,w,w,w,w,w,w),C.ct,w,w),C.RY],s),C.B,C.di,C.bg,w,C.I),C.h,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new V.aNt(e),w,w,w,w,w,w),w)],s),C.aq),v.b-50,500,!1)},
-aNt:function aNt(d){this.a=d}},W,X,Y={
+return Z.Zo(T.dY(C.Y,H.a([u,t,new T.eL(C.cX,w,w,B.U7(w,!1,T.cf(H.a([L.aS(T.cL("More",w,"more",H.a([],x),w),w,w,w,A.b4(w,w,C.m,w,w,w,w,w,w,w,w,w,w,w,w,w,!0,w,w,w,w,w,w,w,w),C.ct,w,w),C.RY],s),C.B,C.di,C.bg,w,C.I),C.h,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new V.aNu(e),w,w,w,w,w,w),w)],s),C.aq),v.b-50,500,!1)},
+aNu:function aNu(d){this.a=d}},W,X,Y={
 aWG(){return new Y.oU(null)},
 oU:function oU(d){this.a=d},
 a3r:function a3r(d){var _=this
 _.a=_.d=null
 _.b=d
 _.c=null},
-aF1:function aF1(){},
-aF2:function aF2(){}},Z={
+aF2:function aF2(){},
+aF3:function aF3(){}},Z={
 Zo(d,e,f,g){return new Z.Hh(d,f,e,g,null)},
 Hh:function Hh(d,e,f,g,h){var _=this
 _.c=d
@@ -143,7 +143,7 @@ _.d=e
 _.e=f
 _.f=g
 _.a=h},
-aJr:function aJr(d,e,f){this.a=d
+aJs:function aJs(d,e,f){this.a=d
 this.b=e
 this.c=f},
 Iz:function Iz(d,e,f,g){var _=this
@@ -157,7 +157,7 @@ _.cG$=d
 _.a=null
 _.b=e
 _.c=null},
-aL7:function aL7(d){this.a=d},
+aL8:function aL8(d){this.a=d},
 Hs:function Hs(d,e){this.c=d
 this.a=e},
 a74:function a74(d,e){var _=this
@@ -166,8 +166,8 @@ _.cG$=d
 _.a=null
 _.b=e
 _.c=null},
+aJw:function aJw(d){this.a=d},
 aJv:function aJv(d){this.a=d},
-aJu:function aJu(d){this.a=d},
 a28:function a28(d){this.a=d},
 Md:function Md(){},
 Mh:function Mh(){}}
@@ -208,10 +208,10 @@ E(d,e){var x,w,v,u,t,s=null,r=X.hW(new H.mL(C.Q,C.dC),C.aW,new L.ei("images/bird
 L.co(e,C.a8,q).toString
 x=y.f
 w=y.O
-v=H.a([Z.Zo(M.as(s,B.U7(s,!1,T.eP(L.aS(T.cL("Recent Projects",s,"recent_projects",H.a([],x),s),s,s,s,A.b4(s,s,C.m,s,s,s,s,s,s,s,s,40,s,C.c9,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s,s,s),C.h,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,C.cr,s,s,new Y.aF1(),s,s,s,s,s,s),C.h,s,s,new S.bl(C.U,r,s,s,s,s,s,C.A),s,s,s,s,s,s,s),200,75,!0),Z.Zo(T.tz(!1,M.as(s,s,C.h,C.m,s,s,s,s,s,s,s,s,s),0.8),60,1500,!1)],w)
+v=H.a([Z.Zo(M.as(s,B.U7(s,!1,T.eP(L.aS(T.cL("Recent Projects",s,"recent_projects",H.a([],x),s),s,s,s,A.b4(s,s,C.m,s,s,s,s,s,s,s,s,40,s,C.c9,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s,s,s),C.h,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,C.cr,s,s,new Y.aF2(),s,s,s,s,s,s),C.h,s,s,new S.bl(C.U,r,s,s,s,s,s,C.A),s,s,s,s,s,s,s),200,75,!0),Z.Zo(T.tz(!1,M.as(s,s,C.h,C.m,s,s,s,s,s,s,s,s,s),0.8),60,1500,!1)],w)
 r=X.hW(new H.mL(C.Q,C.dC),C.aW,new L.ei("images/bird2.jpg",s,s),s)
 L.co(e,C.a8,q).toString
-u=H.a([Z.Zo(M.as(s,B.U7(s,!1,T.eP(L.aS(T.cL("Newest Articles",s,"newest_articles",H.a([],x),s),s,s,s,A.b4(s,s,C.m,s,s,s,s,s,s,s,s,40,s,C.c9,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s,s,s),C.h,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,C.cr,s,s,new Y.aF2(),s,s,s,s,s,s),C.h,s,s,new S.bl(C.U,r,s,s,s,s,s,C.A),s,s,s,s,s,s,s),200,75,!0),Z.Zo(T.tz(!1,M.as(s,s,C.h,C.m,s,s,s,s,s,s,s,s,s),0.8),60,1500,!1)],w)
+u=H.a([Z.Zo(M.as(s,B.U7(s,!1,T.eP(L.aS(T.cL("Newest Articles",s,"newest_articles",H.a([],x),s),s,s,s,A.b4(s,s,C.m,s,s,s,s,s,s,s,s,40,s,C.c9,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s,s,s),C.h,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,C.cr,s,s,new Y.aF3(),s,s,s,s,s,s),C.h,s,s,new S.bl(C.U,r,s,s,s,s,s,C.A),s,s,s,s,s,s,s),200,75,!0),Z.Zo(T.tz(!1,M.as(s,s,C.h,C.m,s,s,s,s,s,s,s,s,s),0.8),60,1500,!1)],w)
 w=P.aC(v,!0,y.l)
 C.b.L(w,u)
 r=X.hW(new H.mL(C.Q,C.dC),C.aW,new L.ei("images/4703133.jpg",s,s),s)
@@ -223,8 +223,8 @@ t.push(G.aYG(G.aYF(H.a([N.aWx()],q),!0,!0,!0)))
 return M.as(s,new B.R2(t,C.t,!1,x,!1,s,s,!1,s,0,s,s,C.R,C.m2,s,C.aR,s),C.h,s,s,new S.bl(s,r,s,s,s,s,s,C.A),s,s,s,s,s,s,s)}}
 Z.Hh.prototype={
 E(d,e){var x=this,w=null
-return new U.Zu(new Z.aJr(x.d,x.e,M.as(w,x.c,C.h,w,w,w,w,w,w,w,w,w,w)),x.f,!1,w)}}
-Z.aJr.prototype={}
+return new U.Zu(new Z.aJs(x.d,x.e,M.as(w,x.c,C.h,w,w,w,w,w,w,w,w,w,w)),x.f,!1,w)}}
+Z.aJs.prototype={}
 U.Ys.prototype={
 grY(){var x=this
 if(x.A$==null)return 0
@@ -243,7 +243,7 @@ w.cQ=0},
 fB(d,e){return this.a_w(d,e,!1)},
 kp(d){return this.a7w(d)},
 Cl(d,e,f){var x=this.A$
-if(x!=null)return this.ZQ(S.aPb(d),x,e,f)
+if(x!=null)return this.ZQ(S.aPc(d),x,e,f)
 return!1},
 eV(d,e){this.WZ(y.x.a(d),e)},
 aJ(d,e){var x,w,v=this
@@ -314,13 +314,13 @@ eT(d,e,f,g){var x,w,v,u=this
 if(e!=null){x=e.eE(0,u)
 w=T.pe(x,g==null?e.gkJ():g)}else w=g
 x=y.S
-switch(G.k7(x.a(K.C.prototype.gY.call(u)).a,x.a(K.C.prototype.gY.call(u)).b)){case C.L:v=U.aML(w,u.grY(),-1/0,1/0,-1/0)
+switch(G.k7(x.a(K.C.prototype.gY.call(u)).a,x.a(K.C.prototype.gY.call(u)).b)){case C.L:v=U.aMM(w,u.grY(),-1/0,1/0,-1/0)
 break
-case C.a4:v=U.aML(w,1/0,0,1/0,-1/0)
+case C.a4:v=U.aMM(w,1/0,0,1/0,-1/0)
 break
-case C.J:v=U.aML(w,1/0,-1/0,1/0,0)
+case C.J:v=U.aMM(w,1/0,-1/0,1/0,0)
 break
-case C.Z:v=U.aML(w,1/0,-1/0,u.grY(),-1/0)
+case C.Z:v=U.aMM(w,1/0,-1/0,u.grY(),-1/0)
 break
 default:v=null}u.EV(d,u,f,v)},
 p5(){return this.eT(C.bl,null,C.w,null)},
@@ -338,7 +338,7 @@ if(x!=null)x.a9(0)}}
 U.a66.prototype={}
 B.R2.prototype={
 Xl(d){return this.fx}}
-U.awn.prototype={}
+U.awo.prototype={}
 U.Zu.prototype={
 E(d,e){if(this.d)return new U.a6U(this.c,!1,null)
 return new U.a6V(this.c,!1,null)}}
@@ -381,7 +381,7 @@ else v=!1
 if(v)y.j.a(N.ae.prototype.gI.call(this)).S()},
 jJ(){this.yR()
 y.j.a(N.ae.prototype.gI.call(this)).S()},
-ap_(d,e){this.r.rX(this,new U.aJs(this,d,e))},
+ap_(d,e){this.r.rX(this,new U.aJt(this,d,e))},
 ip(d){this.ar=null
 this.j8(d)},
 jC(d,e){y.j.a(N.ae.prototype.gI.call(this)).sbq(0,d)},
@@ -429,20 +429,20 @@ x.a.toString
 x.bh()},
 p(d){this.gz1().p(0)
 this.aa8(0)},
-E(d,e){return K.ke(this.gz1(),new Z.aL7(this),null)}}
+E(d,e){return K.ke(this.gz1(),new Z.aL8(this),null)}}
 Z.Hs.prototype={
 ai(){return new Z.a74(null,C.l)}}
 Z.a74.prototype={
 grK(){var x=this.d
 return x==null?H.f(H.p("_controller")):x},
 aS(){var x=this,w=G.bX(null,P.bL(0,0,300,0,0),0,null,1,null,x)
-w.ec(new Z.aJv(x))
+w.ec(new Z.aJw(x))
 x.d=w
 x.grK().c8(0)
 x.bh()},
 p(d){this.grK().p(0)
 this.aa5(0)},
-E(d,e){return K.ke(this.grK(),new Z.aJu(this),null)}}
+E(d,e){return K.ke(this.grK(),new Z.aJv(this),null)}}
 Z.a28.prototype={
 E(d,e){var x=null
 return M.as(x,x,C.h,K.ar(e).b,x,x,x,3,x,x,x,x,12)}}
@@ -459,23 +459,23 @@ if(w!=null){x=this.c
 x.toString
 w.sdf(0,!U.cG(x))}this.cd()}}
 var z=a.updateTypes(["~({curve:hV,descendant:C?,duration:am,rect:J?})","~()"])
-Y.aF1.prototype={
-$0(){},
-$S:0}
 Y.aF2.prototype={
 $0(){},
 $S:0}
-V.aNt.prototype={
+Y.aF3.prototype={
+$0(){},
+$S:0}
+V.aNu.prototype={
 $0(){return this.a.lh($.lS.b,C.eF,C.pc)},
 $S:0}
 U.asY.prototype={
 $1(d){this.a.a1N(this.b,this.c)},
 $S:94}
-U.aJs.prototype={
+U.aJt.prototype={
 $0(){var x=this.a,w=x.ar,v=y.A
 x.ar=x.e2(w,x.as?new U.Jk(T.Zd(v.a(N.ae.prototype.gO.call(x)).c.c),null):T.Zd(v.a(N.ae.prototype.gO.call(x)).c.c),null)},
 $S:0}
-Z.aL7.prototype={
+Z.aL8.prototype={
 $2(d,e){var x,w,v=null,u=this.a,t=C.d.eN(u.a.c.length*u.gz1().gcA()),s=C.c.K(u.a.c,0,t),r=d.U(y.D)
 if(r==null)r=C.hu
 x=s+" "
@@ -485,11 +485,11 @@ u.a.toString
 x.push(new V.kQ(new Z.Hs(C.ani,v),C.cm,v,v))
 return T.nu(v,v,v,C.aH,!0,v,Q.cF(x,v,v,r.x,v),C.a3,v,v,1,C.ah)},
 $S:550}
-Z.aJv.prototype={
+Z.aJw.prototype={
 $1(d){if(d===C.ao)this.a.grK().dL(0)
 else if(d===C.P)this.a.grK().c8(0)},
 $S:8}
-Z.aJu.prototype={
+Z.aJv.prototype={
 $2(d,e){var x=this.a,w=x.grK().gcA()
 return T.tz(!1,x.a.c,w)},
 $S:551};(function aliases(){var x=Z.Md.prototype
@@ -500,14 +500,14 @@ x(U.Gs.prototype,"gqR",0,0,null,["$4$curve$descendant$duration$rect","$0","$1$re
 w(U.Jl.prototype,"gGZ","aks",1)})();(function inheritance(){var x=a.mixin,w=a.inheritMany,v=a.inherit
 w(N.W,[Y.oU,U.Jk,Z.Iz,Z.Hs])
 w(N.a8,[Y.a3r,U.Jl,Z.Mh,Z.Md])
-w(H.fX,[Y.aF1,Y.aF2,V.aNt,U.aJs])
+w(H.fX,[Y.aF2,Y.aF3,V.aNu,U.aJt])
 w(N.a3,[Z.Hh,U.Zu,Z.a28])
-w(P.E,[U.awn,U.v3])
-v(Z.aJr,U.awn)
+w(P.E,[U.awo,U.v3])
+v(Z.aJs,U.awo)
 v(U.a65,G.cN)
 v(U.a66,U.a65)
 v(U.Ys,U.a66)
-w(H.cq,[U.asY,Z.aJv])
+w(H.cq,[U.asY,Z.aJw])
 w(U.Ys,[U.Yt,U.Gs])
 v(B.R2,B.GV)
 v(U.a6S,N.ae)
@@ -518,7 +518,7 @@ v(U.a68,U.a97)
 v(U.a96,U.Gs)
 v(U.a67,U.a96)
 v(Z.a8t,Z.Mh)
-w(H.iA,[Z.aL7,Z.aJu])
+w(H.iA,[Z.aL8,Z.aJv])
 v(Z.a74,Z.Md)
 x(U.a65,K.aQ)
 x(U.a66,G.Yp)
@@ -531,4 +531,4 @@ var y=(function rtii(){var x=H.I
 return{v:x("el"),D:x("oI"),h:x("aX"),R:x("m<cm>"),f:x("m<E>"),O:x("m<Hh>"),p:x("m<d>"),w:x("ic"),x:x("G"),y:x("bcB"),t:x("hD"),S:x("nD"),l:x("d"),j:x("v3"),A:x("v5")}})();(function constants(){C.Rn=new X.be(58195,"MaterialIcons",null,!1)
 C.RY=new L.de(C.Rn,80,C.m,C.y,null)
 C.ani=new Z.a28(null)})()}
-$__dart_deferred_initializers__["fsoznkSnZb5hVMiEb2oYtOLM0jc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["RUF3qP+PCl0a63VkzjH2a5MIwZI="] = $__dart_deferred_initializers__.current
