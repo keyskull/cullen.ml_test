@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z={
-wk(d){return new Z.CZ(d,null)}}
+vu(d){return new Z.BV(d,null)}}
 a.setFunctionNamesIfNecessary([Z])
 A=c[0]
 B=c[1]
@@ -28,4 +28,4 @@ X=c[22]
 Y=c[23]
 Z=a.updateHolder(c[24],Z)
 var z=a.updateTypes([])}
-$__dart_deferred_initializers__["guScaxDaKEylMRnIgwilN/54qI4="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["QBT6WnFRu0ZPJ70jdrlSZMueptk="] = $__dart_deferred_initializers__.current
