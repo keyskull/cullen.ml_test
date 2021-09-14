@@ -4937,7 +4937,6 @@ glob
 http_parser
 matcher
 path
-pub_semver
 source_span
 stack_trace
 string_scanner
@@ -6869,6 +6868,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart_style
 http
+pub_semver
 
 Copyright 2014, the Dart project authors. 
 
