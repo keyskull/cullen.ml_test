@@ -1,24 +1,179 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aNP(d){return new K.o_(d,null,null,null)},
-o_:function o_(d,e,f,g){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={Ih:function Ih(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t){var _=this
+_.fx=d
+_.c=e
+_.d=f
+_.e=g
+_.f=h
+_.r=i
+_.x=j
+_.y=k
+_.z=l
+_.Q=m
+_.ch=n
+_.cx=o
+_.cy=p
+_.db=q
+_.dx=r
+_.dy=s
+_.a=t}},C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U={
+arf(d,e,f,g,h){return d==null?null:d.f6(new P.D(f,h,g,e))},
+OT:function OT(){},
+adu:function adu(d,e,f){this.a=d
+this.b=e
+this.c=f},
+OU:function OU(){},
+zJ:function zJ(){},
+W0:function W0(){},
+W1:function W1(){},
+agL:function agL(){},
+PT:function PT(d,e,f,g){var _=this
 _.c=d
-_.h3$=e
-_.h4$=f
+_.d=e
+_.e=f
 _.a=g},
-Ho:function Ho(d){this.a=d},
-Hp:function Hp(d){this.a=d},
-Hq:function Hq(d){this.a=d},
-SG:function SG(){},
-avQ(d,e,f){return new K.GG(d,e,f,null)},
-GG:function GG(d,e,f,g){var _=this
-_.d=d
+BO:function BO(d,e){this.c=d
+this.a=e},
+BP:function BP(d){var _=this
+_.a=_.d=null
+_.b=d
+_.c=null},
+WG:function WG(d,e,f,g,h){var _=this
+_.am=d
+_.b=_.a=_.fx=_.dy=_.ag=null
+_.c=e
+_.e=_.d=null
+_.f=f
+_.r=null
+_.x=g
+_.y=h
+_.Q=_.z=null
+_.ch=!1
+_.cx=!0
+_.dx=_.db=_.cy=!1},
+aoZ:function aoZ(d,e,f){this.a=d
+this.b=e
+this.c=f},
+q6:function q6(){},
+q4:function q4(){},
+WJ:function WJ(d,e,f){this.c=d
+this.d=e
+this.a=f},
+W3:function W3(d,e,f,g){var _=this
+_.jt$=d
+_.bX=_.v7=null
+_.v=!0
+_.bx=0
+_.e1=!1
+_.dK=e
+_.v$=f
+_.k4=null
+_.d=!1
+_.f=_.e=null
+_.x=_.r=!1
+_.y=null
+_.z=!1
+_.Q=!0
+_.ch=null
+_.cx=!1
+_.cy=null
+_.db=!1
+_.dx=g
+_.dy=!1
+_.fr=null
+_.fx=!0
+_.fy=null
+_.go=!0
+_.id=null
+_.a=0
+_.c=_.b=null},
+WI:function WI(d,e,f){this.c=d
+this.d=e
+this.a=f},
+W2:function W2(d,e,f,g){var _=this
+_.jt$=d
+_.bX=null
+_.v=!0
+_.bx=0
+_.e1=!1
+_.dK=e
+_.v$=f
+_.k4=null
+_.d=!1
+_.f=_.e=null
+_.x=_.r=!1
+_.y=null
+_.z=!1
+_.Q=!0
+_.ch=null
+_.cx=!1
+_.cy=null
+_.db=!1
+_.dx=g
+_.dy=!1
+_.fr=null
+_.fx=!0
+_.fy=null
+_.go=!0
+_.id=null
+_.a=0
+_.c=_.b=null},
+Yx:function Yx(){},
+Yy:function Yy(){}},V={
+aUK(d,e){var x,w=null,v=$.jN=d.a5(y.w).f.a,u=M.b1(w,w,C.j,w,w,new S.bn(C.I,X.fi(new H.m1(C.N,C.cT),C.az,new L.dr("images/night.jpg",w,w),w),w,w,w,w,C.z),w,w,w,w,w,w,w),t=A.aS(w,w,C.n,w,w,w,w,w,w,w,w,40,w,C.c5,w,w,!0,w,w,w,w,w,w,w,w),s=y.t
+L.bT(d,C.P,s).toString
+x=y.f
+t=T.a4G(C.iv,M.b1(w,new Z.Bf(T.cc("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",w,"header_description",H.a([],x),w),150,t,w),C.j,w,new S.ax(0,v.a*0.8,0,1/0),w,w,w,w,w,w,w,w),C.dU)
+L.bT(d,C.P,s).toString
+s=y.p
+return Z.PN(T.ec(C.a4,H.a([u,t,new T.eP(C.iv,w,w,B.KP(w,!1,T.cr(H.a([L.aH(T.cc("More",w,"more",H.a([],x),w),w,w,A.aS(w,w,C.n,w,w,w,w,w,w,w,w,w,w,w,w,w,!0,w,w,w,w,w,w,w,w),C.cr,w),C.Lh],s),C.L,C.hF,C.cj),C.j,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new V.arU(e),w,w,w,w,w,w),w)],s),C.ar),v.b-50,500,!1)},
+arU:function arU(d){this.a=d}},W,X,Y={
+aAa(){return new Y.md(null)},
+md:function md(d){this.a=d},
+TN:function TN(d){var _=this
+_.a=_.d=null
+_.b=d
+_.c=null},
+ams:function ams(){},
+amt:function amt(){}},Z={
+PN(d,e,f,g){return new Z.Aq(d,f,e,g,null)},
+Aq:function Aq(d,e,f,g,h){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.a=h},
+aoY:function aoY(d,e,f){this.a=d
+this.b=e
+this.c=f},
+Bf:function Bf(d,e,f,g){var _=this
+_.c=d
 _.f=e
-_.z=f
-_.a=g}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
-a.setFunctionNamesIfNecessary([K])
+_.r=f
+_.a=g},
+Y1:function Y1(d,e){var _=this
+_.d=null
+_.cL$=d
+_.a=null
+_.b=e
+_.c=null},
+apV:function apV(d){this.a=d},
+Ay:function Ay(d,e){this.c=d
+this.a=e},
+WU:function WU(d,e){var _=this
+_.d=null
+_.cL$=d
+_.a=null
+_.b=e
+_.c=null},
+ap1:function ap1(d){this.a=d},
+ap0:function ap0(d){this.a=d},
+SE:function SE(d){this.a=d},
+E1:function E1(){},
+E5:function E5(){}}
+a.setFunctionNamesIfNecessary([B,U,V,Y,Z])
 A=c[0]
-B=c[1]
+B=a.updateHolder(c[1],B)
 C=c[2]
 D=c[3]
 E=c[4]
@@ -26,7 +181,7 @@ F=c[5]
 G=c[6]
 H=c[7]
 J=c[8]
-K=a.updateHolder(c[9],K)
+K=c[9]
 L=c[10]
 M=c[11]
 N=c[12]
@@ -36,68 +191,342 @@ Q=c[15]
 R=c[16]
 S=c[17]
 T=c[18]
-U=c[19]
-V=c[20]
+U=a.updateHolder(c[19],U)
+V=a.updateHolder(c[20],V)
 W=c[21]
 X=c[22]
-Y=c[23]
-Z=c[24]
-K.o_.prototype={
-F(d,e){var x=$.aJJ().h(0,this.c)
+Y=a.updateHolder(c[23],Y)
+Z=a.updateHolder(c[24],Z)
+Y.md.prototype={
+at(){return new Y.TN(C.q)}}
+Y.TN.prototype={
+gEp(){var x=this.d
+return x==null?H.i(H.B("scrollController")):x},
+aS(){this.d=F.aes()
+this.bk()},
+G(d,e){var x,w,v,u=null,t="images/bird.gif",s=X.fi(new H.m1(C.N,C.cT),C.az,new L.dr(t,u,u),u),r=y.t
+L.bT(e,C.P,r).toString
+x=y.f
+Z.PN(M.b1(u,B.KP(u,!1,T.kx(L.aH(T.cc("Recent Projects",u,"recent_projects",H.a([],x),u),u,u,A.aS(u,u,C.n,u,u,u,u,u,u,u,u,40,u,C.c5,u,u,!0,u,u,u,u,u,u,u,u),u,u),u,u),C.j,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,C.bY,u,u,new Y.ams(),u,u,u,u,u,u),C.j,u,u,new S.bn(C.I,s,u,u,u,u,C.z),u,u,u,u,u,u,u),200,75,!0)
+Z.PN(T.p0(!1,M.b1(u,u,C.j,C.n,u,u,u,u,u,u,u,u,u),0.8),60,1500,!1)
+s=X.fi(new H.m1(C.N,C.cT),C.az,new L.dr(t,u,u),u)
+L.bT(e,C.P,r).toString
+s=P.as(H.a([Z.PN(M.b1(u,B.KP(u,!1,T.kx(L.aH(T.cc("Newest Articles",u,"newest_articles",H.a([],x),u),u,u,A.aS(u,u,C.n,u,u,u,u,u,u,u,u,40,u,C.c5,u,u,!0,u,u,u,u,u,u,u,u),u,u),u,u),C.j,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,C.bY,u,u,new Y.amt(),u,u,u,u,u,u),C.j,u,u,new S.bn(C.I,s,u,u,u,u,C.z),u,u,u,u,u,u,u),200,75,!0),Z.PN(T.p0(!1,M.b1(u,u,C.j,C.n,u,u,u,u,u,u,u,u,u),0.8),60,1500,!1)],y.O),!0,y.l)
+x=X.fi(new H.m1(C.N,C.cT),C.az,new L.dr("images/4703133.jpg",u,u),u)
+r=this.gEp()
+w=y.p
+v=H.a([V.aUK(e,this.gEp())],w)
+C.c.H(v,s)
+v.push(G.aBZ(G.aBY(H.a([N.aA4()],w),!0,!0,!0)))
+return M.b1(u,new B.Ih(v,C.u,!1,r,!1,u,u,!1,u,0,u,u,C.bh,C.Dg,u,C.aS,u),C.j,u,u,new S.bn(u,x,u,u,u,u,C.z),u,u,u,u,u,u,u)}}
+Z.Aq.prototype={
+G(d,e){var x=this,w=null
+return new U.PT(new Z.aoY(x.d,x.e,M.b1(w,x.c,C.j,w,w,w,w,w,w,w,w,w,w)),x.f,!1,w)}}
+Z.aoY.prototype={}
+Z.Bf.prototype={
+at(){return new Z.Y1(null,C.q)}}
+Z.Y1.prototype={
+gt2(){var x=this.d
+return x==null?H.i(H.B("_animationController")):x},
+aS(){var x=this,w=x.a
+x.d=G.c8(null,P.cH(0,0,w.f*w.c.length,0,0),0,null,1,null,x)
+x.a.toString
+x.gt2().bQ(0)
+x.a.toString
+x.bk()},
+m(d){this.gt2().m(0)
+this.VG(0)},
+G(d,e){return K.km(this.gt2(),new Z.apV(this),null)}}
+Z.Ay.prototype={
+at(){return new Z.WU(null,C.q)}}
+Z.WU.prototype={
+gnb(){var x=this.d
+return x==null?H.i(H.B("_controller")):x},
+aS(){var x=this,w=G.c8(null,P.cH(0,0,300,0,0),0,null,1,null,x)
+w.cA(new Z.ap1(x))
+x.d=w
+x.gnb().bQ(0)
+x.bk()},
+m(d){this.gnb().m(0)
+this.VD(0)},
+G(d,e){return K.km(this.gnb(),new Z.ap0(this),null)}}
+Z.SE.prototype={
+G(d,e){var x=null
+return M.b1(x,x,C.j,K.at(e).b,x,x,x,3,x,x,x,x,12)}}
+Z.E1.prototype={
+m(d){this.b5(0)},
+aB(){var x,w=this.cL$
+if(w!=null){x=this.c
 x.toString
-return x},
-fJ(){return!0}}
-K.Ho.prototype={
-F(d,e){var x=null,w=y.e
-return T.cq(H.a([L.aK("How Japanese People Stay Fit for Life, Without Ever Visiting a Gym",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,46,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),L.aK("For people stressed or intimidated by fitness culture",x,x,x,A.aT(x,x,C.P,x,x,x,x,x,x,x,x,22,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),T.eo(H.a([T.a6d(C.a8,K.avQ(C.k9,new D.l9("https://miro.medium.com/fit/c/56/56/1*HQTxFkIf5fymNTatLc0qjA.jpeg",1),10),C.e1),T.b7(x,x,10),T.tW(x,x,x,C.aS,!0,x,Q.cI(H.a([Q.cI(x,x,x,A.aT(x,x,C.ka,x,x,x,x,x,x,x,x,14,x,x,x,x,!0,x,x,x,x,x,x,x,x),"Kaki Okumura"),Q.cI(x,x,x,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,14,x,x,x,x,!0,x,x,x,x,x,x,x,x),"    Nov 6, 2020\xb74 min read")],y.i),x,x,x,x),C.ac,x,x,1,C.an)],w),C.I,C.L,C.F,x),T.cq(H.a([T.b7(x,50,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/shoes.jpg",x,x),x),x,x,x,x,x,C.A),x,465,x,x,x,x,600),T.b7(x,50,x),L.aK("In the United States, I\u2019m often bombarded with images and ads of fitness culture. Athleisure is the craze, and it seems that the majority of people are members of gyms like Anytime Fitness, 24 Hour Fitness, or LA Fitness. Any decent hotel or typical college campus has free access to a gym, sometimes even offering workout clothes for rental.It\u2019s the land of Alo Yoga and the birthplace to Crossfit. The most successful online influencers write about fitness, and it\u2019s not uncommon to see someone share their workout on social media as they would their food.\n\nBut in contrast to that, for a country that is a leader in longevity and has very low rates of obesity \u2014 the least among high-income developed nations at 4.3% \u2014 you might be surprised to find that there is not much of a workout culture in Japan. Athleisure is not a big thing, and not many people have a membership to a gym. People would rarely use their lunch break for a gym session, and those who do are probably seen as exercise zealots.\n\nIn a recent Rakuten Insight survey of 1000 Japanese citizens ages 20 to their 60s, about half of those questioned revealed that they barely exercised, about once a month or not at all. Citing not enough time or simply that they don\u2019t like exercising that much, most people just didn\u2019t see working out as part of their lifestyle.\n\nWhat\u2019s going on here?",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,21,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/1.jpg",x,x),x),x,x,x,x,x,C.A),x,465,x,x,x,x,600),L.aK("What Exercise Looks Like in Japan",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,36,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),L.aK("If you take a closer look as to what exercise means to Japanese people, you\u2019ll find that exercise equates working out. But perhaps exercise can take on forms that aren\u2019t necessarily about going to a gym and lifting weights, or going on 10km runs. Namely, perhaps the exercise we need is the kind of exercise that is weaved into our lifestyle: walking.\n\nWhat the above results show is not that exercise isn\u2019t important to be healthy, but that in Japan\u2019s approach to moving, perhaps most don\u2019t see it as exercise. Japanese adults walk an average of 6500 steps a day, with male adults in their 20s to 50s walking nearly 8000 steps a day on average, and women in their 20s to 50s about 7000 steps. Okinawans in particular are well-known for their walking culture, being especially mindful about incorporating movement in their daily lifestyle. Nagano, a rural prefecture in Japan, was able to flip their high stroke rate by incorporating over 100 walking routes, and now their citizens enjoy the highest rates of longevity in the country.\n\nMost Japanese citizens live in very walkable cities where public transportation is convenient, safe, and affordable, and not many households own cars. As a consequence, when most people go to work, they walk. When people go grocery shopping, they walk. When people are going out for dinner, they walk. It\u2019s an activity adopted every day by every generation: walking is a part of daily life like breathing is.\n\n",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,21,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),L.aK("The Steps to Better Lifelong Health",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,36,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),L.aK("This is not a call against working out. I love working out, and spend a few hours a week running, biking, swimming, and completing calisthenic exercises. I don\u2019t doubt the advantages of a good sweat, and find that it boosts both my physical and mental health.\n\nBut fitness culture can feel overwhelming for those who aren\u2019t used to it, and too much can perpetuate cycles of shame and guilt. It can make us believe that reaching and maintaining a healthy weight is only available to the dedicated ones who consistently lift weights and are making enough time for daily runs.\n\nInstead what this shows is that, like how eating healthfully doesn\u2019t need to be eating only salads, healthful exercise doesn\u2019t need to be only working out \u2014 the lifestyle fitness you need may just be in a bit more walking",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,21,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/2.jpg",x,x),x),x,x,x,x,x,C.A),x,310,x,x,x,x,500)],w),C.bj,C.L,C.F)],w),C.I,C.L,C.F)}}
-K.Hp.prototype={
-F(d,e){var x=null,w=y.e
-return T.cq(H.a([L.aK("This Simple but Brilliant Calendar Hack From Shopify\u2019s CEO Will Make Your 2021 Much More Productive",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,46,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),L.aK("It doesn\u2019t matter how much work you squeeze in if you\u2019re not working on the right things",x,x,x,A.aT(x,x,C.P,x,x,x,x,x,x,x,x,22,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),T.eo(H.a([T.a6d(C.a8,K.avQ(C.k9,new D.l9("https://miro.medium.com/fit/c/96/96/1*be9NhtCEZu-AB_zt2J46dg.jpeg",1),10),C.e1),T.b7(x,x,10),T.tW(x,x,x,C.aS,!0,x,Q.cI(H.a([Q.cI(x,x,x,A.aT(x,x,C.ka,x,x,x,x,x,x,x,x,14,x,x,x,x,!0,x,x,x,x,x,x,x,x),"inc. magazine"),Q.cI(x,x,x,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,14,x,x,x,x,!0,x,x,x,x,x,x,x,x),"    Dec 25, 2020 \xb7 3 min read")],y.i),x,x,x,x),C.ac,x,x,1,C.an)],w),C.I,C.L,C.F,x),T.cq(H.a([T.b7(x,50,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/book.jpg",x,x),x),x,x,x,x,x,C.A),x,465,x,x,x,x,600),T.b7(x,50,x)],w),C.bj,C.L,C.F)],w),C.I,C.L,C.F)}}
-K.Hq.prototype={
-F(d,e){var x=null,w="The Kanamara Matsuri focuses its festivities around the procession of three moveable shrines.",v=y.e
-return T.cq(H.a([L.aK("Japan\u2019s Steel Penis Festival",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,46,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),L.aK("A brief history behind the \u201cFestival of the Steel Phallus.\u201d",x,x,x,A.aT(x,x,C.P,x,x,x,x,x,x,x,x,22,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),T.eo(H.a([T.a6d(C.a8,K.avQ(C.k9,new D.l9("https://miro.medium.com/fit/c/96/96/1*IMgPKmEYKITsEEZeW2jipw.gif",1),10),C.e1),T.b7(x,x,10),T.tW(x,x,x,C.aS,!0,x,Q.cI(H.a([Q.cI(x,x,x,A.aT(x,x,C.ka,x,x,x,x,x,x,x,x,14,x,x,x,x,!0,x,x,x,x,x,x,x,x),"Ben Kageyama"),Q.cI(x,x,x,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,14,x,x,x,x,!0,x,x,x,x,x,x,x,x),"    Jan 4\xb73 min read")],y.i),x,x,x,x),C.ac,x,x,1,C.an)],v),C.I,C.L,C.F,x),T.cq(H.a([T.b7(x,50,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/1QmAkvn6tPCqaps5pJc2N4w.jpeg",x,x),x),x,x,x,x,x,C.A),x,465,x,x,x,x,600),T.b7(x,10,x),L.aK("Kanamara Matsuri Festivities (2007), by Saya M., CC BY-SA 2.0 via Wikimedia Commons",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,16,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("Penis sausages, penis candies, penis costumes, and penis parades \u2014 all things one would probably come across when attending Japan\u2019s Kanamara Matsuri festival. When literally translated, the Japanese phrase approximates to \u201cSteel Phallus Festival\u201d in English, and it\u2019s just as exciting as it sounds.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("During the first Sunday of April, the streets of Kawasaki, Japan, are filled with penis praising activities for bringing honor to the Shinto spirits venerated at the Kanayama Shrine. The penis festival was formalized only in 1969 but had its roots in Japanese folklore and ancient beliefs.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,30,x),L.aK("History",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,36,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/17tljQ5ZzjsJ6XCx5pJuH-Q.jpeg",x,x),x),x,x,x,x,x,C.A),x,525,x,x,x,x,x),T.b7(x,10,x),L.aK("Kanayama Shrine, by Stealth3327, CC BY 3.0 via Wikimedia Commons",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,16,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("Japanese folklore tells of a story of a demon that took residence inside the vagina of a young woman. The demon was motivated by love, obsessed with not letting other men experience carnal knowledge of her. Its jealousy was so strong that young men had their penises ripped off when they tried to have sex with the woman on two occasions.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("To combat the obsessive demon, the woman sought the aid of a known blacksmith. He made the woman a blessed iron phallus to break the demon\u2019s teeth, allowing her to be rid of it forever. The ploy worked, and to give thanks to the spirits that blessed it, the phallus is now forever enshrined at Kawasaki\u2019s Kanayama Shrine.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("Unlike more conservative religions, Shintoism is more open to sex and sensual symbols. The legend behind Kanayam Shrine made the temple a place where people could pray for fertility and a more fulfilling married life. By the 17th to the 19th century, sex workers from brothels all over Japan made their way to the site to pray for protection or healing from sexually transmitted diseases.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("There is evidence of similar sex-oriented festivals in the area, but most were discontinued by the end of the 19th century. A century later, the practice was resurrected by local politicians, although at a much smaller scale than it is today.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("In 2012, there was a sharp erection in the popularity of the Steel Phallus festival. Matsuko Deluxe, a big Japanese TV personality who was a big advocate for LGBTQ rights, endorsed the event that year, and since then, the festival has had over 50,000 attendees in every celebration that followed.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,30,x),L.aK("Festivities",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,36,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/1bq7M4uhWZCpsAFzjLIFD_A.jpeg",x,x),x),x,x,x,x,x,C.A),x,1050,x,x,x,x,700),T.b7(x,10,x),L.aK("Kanamara Boat Mikoshi, by stealth3327, Public Domain via Wikimedia Commons",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,16,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK(w,x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("The first shrine is called the \u201cKanamara Mikoshi,\u201d and it is the oldest among the three. It houses a wooden phallus within a square base and a roof.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("Amongst the stalls, the crowd, and tourists, one would also find the \u201cKanamara Boat Mikoshi.\u201d This portable shrine hosts a black glowing iron phallus within a shrine shaped like a ship.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("The most prominent of the three floats is the \u201cElizabeth Mikoshi.\u201d This shrine houses a giant pink penis donated by Kawasaki\u2019s own cross-dressing club. During the festival itself, this huge pink phallus was carried exclusively by proud members of the drag club. Now, even non-members can carry the iconic shrine, although cross-dressing when doing so is still a requirement.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,30,x),L.aK("Final thoughts",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,36,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),M.b1(x,x,C.j,x,x,new S.bl(x,X.fz(x,C.aC,new L.dz("images/1r1CYsp6p_CQ-W7BnM_KT3A.jpeg",x,x),x),x,x,x,x,x,C.A),x,525,x,x,x,x,700),T.b7(x,10,x),L.aK("Penis candy from the festival, by stealth3327, Public Domain via Wikimedia Commons",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,16,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK(w,x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("I think it\u2019s pretty cool how old folklore has transformed into this unique experience. What\u2019s amazing is that the community doesn\u2019t just leave it up to the spirits to find cures against STDs. Proceeds from the festival are regularly donated to organizations that try to find treatments for HIV.",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,10,x),L.aK("If you get the chance, you should definitely come by",x,x,!0,A.aT(x,x,C.k,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),T.b7(x,100,x)],v),C.bj,C.L,C.F)],v),C.I,C.L,C.F)}}
-K.SG.prototype={}
-K.GG.prototype={
-ga6C(){var x=this.z
-return 2*x},
-ga6u(){var x=this.z
-return 2*x},
-F(d,e){var x,w,v,u=this,t=null,s=K.aw(e),r=s.as.r.d3(t),q=u.d
-switch(X.BG(q)){case C.W:r.d3(s.d)
+w.scG(0,!U.cM(x))}this.bM()}}
+Z.E5.prototype={
+m(d){this.b5(0)},
+aB(){var x,w=this.cL$
+if(w!=null){x=this.c
+x.toString
+w.scG(0,!U.cM(x))}this.bM()}}
+U.OT.prototype={
+gnm(){var x=this
+if(x.v$==null)return 0
+switch(G.bX(y.S.a(K.y.prototype.ga3.call(x)).a)){case C.u:return x.v$.rx.b
+case C.v:return x.v$.rx.a}},
+PK(d,e){},
+a_(){this.v=!0
+this.Fu()},
+Oi(d,e,f){var x,w=this,v=Math.min(d,e)
+if(w.v||w.bx!==v||w.e1!==f){w.Cm(new U.adu(w,v,f),y.S)
+w.bx=v
+w.e1=f
+w.v=!1}x=w.v$
+if(x!=null)x.ct(0,y.S.a(K.y.prototype.ga3.call(w)).a7w(Math.max(w.gaco(),e-v)+0),!0)
+w.bX=0},
+dM(d,e){return this.Oi(d,e,!1)},
+hy(d){return this.TD(d)},
+vr(d,e,f){var x=this.v$
+if(x!=null)return this.NI(S.atu(d),x,e,f)
+return!1},
+di(d,e){this.LB(y.x.a(d),e)},
+aW(d,e){var x,w,v=this
+if(v.v$!=null&&v.k4.x){x=y.S
+switch(G.j4(x.a(K.y.prototype.ga3.call(v)).a,x.a(K.y.prototype.ga3.call(v)).b)){case C.C:x=v.k4.c
+w=v.v$
+w.toString
+e=e.P(0,new P.t(0,x-v.hy(w)-v.gnm()))
 break
-case C.aq:r.d3(s.e)
-break}x=u.ga6C()
-w=u.ga6u()
-v=X.fz(t,C.aC,u.f,t)
-return G.aB9(t,t,new S.ax(x,w,x,w),new S.bl(q,v,t,t,t,t,t,C.bg),C.ah,t)}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.mixin,w=a.inheritMany,v=a.inherit
-w(N.a5,[K.SG,K.Ho,K.Hp,K.Hq,K.GG])
-v(K.o_,K.SG)
-x(K.SG,N.c0)})()
-H.em(b.typeUniverse,JSON.parse('{"o_":{"a5":[],"c0":[],"e":[]},"Ho":{"a5":[],"e":[]},"Hp":{"a5":[],"e":[]},"Hq":{"a5":[],"e":[]},"GG":{"a5":[],"e":[]}}'))
-var y={j:H.D("bE<l,A>"),i:H.D("o<fM>"),e:H.D("o<e>")};(function constants(){C.JX=new P.A(4292998654)
-C.JK=new P.A(4289979900)
-C.JB=new P.A(4286698746)
-C.Jv=new P.A(4283417591)
-C.Jm=new P.A(4280923894)
-C.J9=new P.A(4278430196)
-C.J8=new P.A(4278426597)
-C.J7=new P.A(4278356177)
-C.J6=new P.A(4278351805)
-C.J5=new P.A(4278278043)
-C.a_6=new H.bE([50,C.JX,100,C.JK,200,C.JB,300,C.Jv,400,C.Jm,500,C.J9,600,C.J8,700,C.J7,800,C.J6,900,C.J5],y.j)
-C.k9=new E.jL(C.a_6,4278430196)
-C.K1=new P.A(4293457385)
-C.JQ=new P.A(4291356361)
-C.JH=new P.A(4289058471)
-C.JA=new P.A(4286695300)
-C.Jz=new P.A(4284922730)
-C.Ju=new P.A(4283215696)
-C.Js=new P.A(4282622023)
-C.Jo=new P.A(4281896508)
-C.Jn=new P.A(4281236786)
-C.Je=new P.A(4279983648)
-C.a_7=new H.bE([50,C.K1,100,C.JQ,200,C.JH,300,C.JA,400,C.Jz,500,C.Ju,600,C.Js,700,C.Jo,800,C.Jn,900,C.Je],y.j)
-C.ka=new E.jL(C.a_7,4283215696)})();(function lazyInitializers(){var x=a.lazy
-x($,"b1S","aJJ",function(){return P.aC(["How-Japanese-People-Stay-Fit-for-Life-Without-Ever-Visiting-a-Gym",new K.Ho(null),"This-Simple-but-Brilliant-Calendar-Hack-From-Shopify\u2019s-CEO-Will-Make-Your-2021-Much-More-Productive",new K.Hp(null),"Japan\u2019s-Steel-Penis-Festival.",new K.Hq(null)],H.D("h"),H.D("a5"))})})()}
-$__dart_deferred_initializers__["57DhJ00im8Evw2vA1rhOY5Fhb1E="] = $__dart_deferred_initializers__.current
+case C.D:x=v.v$
+x.toString
+e=e.P(0,new P.t(0,v.hy(x)))
+break
+case C.M:x=v.k4.c
+w=v.v$
+w.toString
+e=e.P(0,new P.t(x-v.hy(w)-v.gnm(),0))
+break
+case C.Q:x=v.v$
+x.toString
+e=e.P(0,new P.t(v.hy(x),0))
+break}x=v.v$
+x.toString
+d.dP(x,e)}},
+eC(d){this.fK(d)
+d.Av(C.DA)}}
+U.OU.prototype={
+bR(){var x,w,v,u,t=this,s=null,r=y.S,q=r.a(K.y.prototype.ga3.call(t)),p=t.jt$
+p.toString
+x=y.A
+p=x.a(N.ay.prototype.gT.call(p)).c
+w=Math.max(p.b,p.a)
+p=q.d
+t.dM(p,w)
+v=Math.min(q.f,0)
+t.k4=G.jT(s,!0,s,s,w,0,C.d.M(w-p,0,q.r),v,w,s)
+p=t.jt$
+p.toString
+p=x.a(N.ay.prototype.gT.call(p)).c
+w=Math.max(p.b,p.a)
+u=w-r.a(K.y.prototype.ga3.call(t)).d
+p=Math.min(r.a(K.y.prototype.ga3.call(t)).f,0)
+t.k4=G.jT(s,!0,s,s,w+0,0,C.d.M(u,0,r.a(K.y.prototype.ga3.call(t)).r),p,w,s)
+r=t.gnm()
+t.v7=Math.min(0,u-r)},
+hy(d){var x=this.v7
+x.toString
+return x}}
+U.zJ.prototype={
+bR(){var x,w,v,u,t,s,r=this,q=y.S.a(K.y.prototype.ga3.call(r)),p=r.jt$
+p.toString
+x=y.A
+p=x.a(N.ay.prototype.gT.call(p)).c
+w=Math.max(p.b,p.a)
+p=q.f
+v=q.d
+r.Oi(v,w,p>0)
+u=Math.max(0,q.r-p)
+t=C.d.M(w-v,0,u)
+v=Math.min(H.ep(r.gnm()),u)
+s=r.jt$
+s.toString
+s=x.a(N.ay.prototype.gT.call(s))
+x=t>0?-q.Q+t:t
+r.k4=G.jT(x,!0,null,t,w+0,s.c.a,v,p,w,null)},
+hy(d){return 0},
+d7(d,e,f,g){var x,w,v,u=this
+if(e!=null){x=e.dg(0,u)
+w=T.mr(x,g==null?e.ghO():g)}else w=g
+x=y.S
+switch(G.j4(x.a(K.y.prototype.ga3.call(u)).a,x.a(K.y.prototype.ga3.call(u)).b)){case C.C:v=U.arf(w,u.gnm(),-1/0,1/0,-1/0)
+break
+case C.Q:v=U.arf(w,1/0,0,1/0,-1/0)
+break
+case C.D:v=U.arf(w,1/0,-1/0,1/0,0)
+break
+case C.M:v=U.arf(w,1/0,-1/0,u.gnm(),-1/0)
+break
+default:v=null}u.xv(d,u,f,v)},
+le(){return this.d7(C.b8,null,C.B,null)},
+lf(d){return this.d7(C.b8,null,C.B,d)},
+jT(d,e,f){return this.d7(d,null,e,f)}}
+U.W0.prototype={
+az(d){var x
+this.e6(d)
+x=this.v$
+if(x!=null)x.az(d)},
+al(d){var x
+this.dh(0)
+x=this.v$
+if(x!=null)x.al(0)}}
+U.W1.prototype={}
+B.Ih.prototype={
+LS(d){return this.fx}}
+U.agL.prototype={}
+U.PT.prototype={
+G(d,e){if(this.d)return new U.WI(this.c,!1,null)
+return new U.WJ(this.c,!1,null)}}
+U.BO.prototype={
+at(){return new U.BP(C.q)}}
+U.BP.prototype={
+aB(){var x,w=this
+w.bM()
+x=w.d
+if(x!=null)x.id.ac(0,w.gzg())
+x=w.c
+x.toString
+x=F.iJ(x)
+if(x==null)x=null
+else{x=x.d
+x.toString}w.d=x
+if(x!=null)x.id.ar(0,w.gzg())},
+m(d){var x=this.d
+if(x!=null)x.id.ac(0,this.gzg())
+this.b5(0)},
+a2N(){var x,w=this.c.v8(y.y),v=this.d
+if(v.id.a){x=w==null
+if(!x)w.afv=v.ry
+if(!x){w=w.v7
+if(w!=null)w.eT(0)}}else if(w!=null)w.afC(v.ry)},
+G(d,e){return this.a.c}}
+U.WG.prototype={
+gT(){return y.A.a(N.ay.prototype.gT.call(this))},
+gI(){return y.j.a(N.ay.prototype.gI.call(this))},
+eL(d,e){this.mH(d,e)
+y.j.a(N.ay.prototype.gI.call(this)).jt$=this},
+ml(){y.j.a(N.ay.prototype.gI.call(this)).jt$=null
+this.TB()},
+b9(d,e){var x,w,v,u=y.A.a(N.ay.prototype.gT.call(this))
+this.jW(0,e)
+x=e.c
+w=u.c
+if(x!==w)v=H.E(x)!==H.E(w)||x.b!==w.b||x.a!==w.a||!x.c.lh(0,w.c)
+else v=!1
+if(v)y.j.a(N.ay.prototype.gI.call(this)).a_()},
+iD(){this.xx()
+y.j.a(N.ay.prototype.gI.call(this)).a_()},
+a5M(d,e){this.r.pF(this,new U.aoZ(this,d,e))},
+hH(d){this.ag=null
+this.iV(d)},
+jy(d,e){y.j.a(N.ay.prototype.gI.call(this)).sba(0,d)},
+jB(d,e,f){},
+jL(d,e){y.j.a(N.ay.prototype.gI.call(this)).sba(0,null)},
+bu(d){var x=this.ag
+if(x!=null)d.$1(x)}}
+U.q6.prototype={
+cd(d){var x=($.bS+1)%16777215
+$.bS=x
+return new U.WG(this.d,x,this,C.ay,P.bC(y.h))}}
+U.q4.prototype={
+gaco(){var x=this.jt$
+x.toString
+return y.A.a(N.ay.prototype.gT.call(x)).c.a},
+PK(d,e){this.jt$.a5M(d,e)}}
+U.WJ.prototype={
+aK(d){var x=null,w=new U.W3(x,x,x,T.au(y.v))
+w.gau()
+w.gaC()
+w.fr=!1
+w.sba(0,x)
+return w}}
+U.W3.prototype={}
+U.WI.prototype={
+aK(d){var x=null,w=new U.W2(x,x,x,T.au(y.v))
+w.gau()
+w.gaC()
+w.fr=!1
+w.sba(0,x)
+return w}}
+U.W2.prototype={}
+U.Yx.prototype={}
+U.Yy.prototype={}
+var z=a.updateTypes(["~({curve:fh,descendant:y?,duration:aR,rect:D?})","~()"])
+Y.ams.prototype={
+$0(){},
+$S:0}
+Y.amt.prototype={
+$0(){},
+$S:0}
+V.arU.prototype={
+$0(){return this.a.ic($.jN.b,C.dW,C.m2)},
+$S:0}
+Z.apV.prototype={
+$2(d,e){var x,w,v=null,u=this.a,t=C.d.cP(u.a.c.length*u.gt2().gcj()),s=C.b.J(u.a.c,0,t),r=d.a5(y.D)
+if(r==null)r=C.m0
+x=s+" "
+w=u.a.r
+x=H.a([Q.dk(v,v,v,w,x)],y.R)
+u.a.toString
+x.push(V.aQt(new Z.Ay(C.a6E,v)))
+return T.to(v,v,v,C.aO,!0,v,Q.dk(x,v,v,r.x,v),C.ab,v,v,1,C.an)},
+$S:489}
+Z.ap1.prototype={
+$1(d){if(d===C.ac)this.a.gnb().d4(0)
+else if(d===C.E)this.a.gnb().bQ(0)},
+$S:2}
+Z.ap0.prototype={
+$2(d,e){var x=this.a,w=x.gnb().gcj()
+return T.p0(!1,x.a.c,w)},
+$S:490}
+U.adu.prototype={
+$1(d){this.a.PK(this.b,this.c)},
+$S:61}
+U.aoZ.prototype={
+$0(){var x=this.a,w=x.ag,v=y.A
+x.ag=x.dS(w,x.am?new U.BO(T.PB(v.a(N.ay.prototype.gT.call(x)).c.c),null):T.PB(v.a(N.ay.prototype.gT.call(x)).c.c),null)},
+$S:0};(function aliases(){var x=Z.E1.prototype
+x.VD=x.m
+x=Z.E5.prototype
+x.VG=x.m})();(function installTearOffs(){var x=a.installInstanceTearOff,w=a._instance_0u
+x(U.zJ.prototype,"gmB",0,0,null,["$4$curve$descendant$duration$rect","$0","$1$rect","$3$curve$duration$rect"],["d7","le","lf","jT"],0,0,0)
+w(U.BP.prototype,"gzg","a2N",1)})();(function inheritance(){var x=a.mixin,w=a.inheritMany,v=a.inherit
+w(N.a3,[Y.md,Z.Bf,Z.Ay,U.BO])
+w(N.ag,[Y.TN,Z.E5,Z.E1,U.BP])
+w(H.ff,[Y.ams,Y.amt,V.arU,U.aoZ])
+w(N.a8,[Z.Aq,Z.SE,U.PT])
+w(P.r,[U.agL,U.q4])
+v(Z.aoY,U.agL)
+v(Z.Y1,Z.E5)
+w(H.ib,[Z.apV,Z.ap0])
+v(Z.WU,Z.E1)
+w(H.c_,[Z.ap1,U.adu])
+v(U.W0,G.cm)
+v(U.W1,U.W0)
+v(U.OT,U.W1)
+w(U.OT,[U.OU,U.zJ])
+v(B.Ih,B.A8)
+v(U.WG,N.ay)
+v(U.q6,N.av)
+w(U.q6,[U.WJ,U.WI])
+v(U.Yy,U.OU)
+v(U.W3,U.Yy)
+v(U.Yx,U.zJ)
+v(U.W2,U.Yx)
+x(Z.E1,U.hR)
+x(Z.E5,U.hR)
+x(U.W0,K.aI)
+x(U.W1,G.OQ)
+x(U.Yx,U.q4)
+x(U.Yy,U.q4)})()
+H.en(b.typeUniverse,JSON.parse('{"md":{"a3":[],"e":[]},"TN":{"ag":["md"]},"Aq":{"a8":[],"e":[]},"Bf":{"a3":[],"e":[]},"Ay":{"a3":[],"e":[]},"Y1":{"ag":["Bf"]},"WU":{"ag":["Ay"]},"SE":{"a8":[],"e":[]},"aP4":{"cm":[],"aI":["F"],"y":[],"I":[],"ap":[]},"OT":{"cm":[],"aI":["F"],"y":[],"I":[],"ap":[]},"OU":{"cm":[],"aI":["F"],"y":[],"I":[],"ap":[]},"zJ":{"cm":[],"aI":["F"],"y":[],"I":[],"ap":[]},"Ih":{"a8":[],"e":[]},"BO":{"a3":[],"e":[]},"PT":{"a8":[],"e":[]},"BP":{"ag":["BO"]},"WG":{"ay":[],"aM":[],"ak":[]},"q6":{"av":[],"e":[]},"WJ":{"q6":[],"av":[],"e":[]},"W3":{"q4":[],"cm":[],"aI":["F"],"y":[],"I":[],"ap":[]},"WI":{"q6":[],"av":[],"e":[]},"W2":{"q4":[],"cm":[],"aI":["F"],"y":[],"I":[],"ap":[]}}'))
+var y=(function rtii(){var x=H.C
+return{v:x("e5"),D:x("o1"),h:x("aM"),R:x("p<de>"),f:x("p<r>"),O:x("p<Aq>"),p:x("p<e>"),w:x("it"),x:x("F"),y:x("aP4"),t:x("f2"),S:x("lj"),l:x("e"),j:x("q4"),A:x("q6")}})();(function constants(){C.KS=new X.bL(58195,!1)
+C.Lh=new L.cS(C.KS,80,C.n,C.x,null)
+C.a6E=new Z.SE(null)})()}
+$__dart_deferred_initializers__["llEsRWBfnaOhUgvfxnHVplmHoMQ="] = $__dart_deferred_initializers__.current
