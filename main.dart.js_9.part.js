@@ -1,13 +1,13 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aOh(){var x=null
-return new K.o1(U.aEO(x,x,x,x,x,!1,x,x,x,x,C.L7,x,x,x,x,x,x,x,x),new N.hF(C.b6),x)},
+aOi(){var x=null
+return new K.o1(U.aEP(x,x,x,x,x,!1,x,x,x,x,C.L7,x,x,x,x,x,x,x,x),new N.hF(C.b6),x)},
 o1:function o1(d,e,f){this.c=d
 this.hw$=e
 this.a=f},
-a08:function a08(){},
 a09:function a09(){},
 a0a:function a0a(){},
+a0b:function a0b(){},
 Sj:function Sj(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
 a.setFunctionNamesIfNecessary([K])
 A=c[0]
@@ -46,24 +46,24 @@ u=L.c9(T.cd("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passi
 t=this.c
 L.bU(e,C.a_,r).toString
 r=y.e
-return new T.bR(C.L8,T.cL(H.a([w,v,u,T.ho(H.a([U.ep(L.c9(T.cd("Contact Me",s,"contact_me",H.a([],x),s),s,s,s,s,s,s,s,s,C.aQ,s,s),new K.a08(),t),U.ep(L.c9("Disclaimer",s,s,s,s,s,s,s,s,s,s,s),new K.a09(),t),U.ep(L.c9("Cookie Policy",s,s,s,s,s,s,s,s,s,s,s),new K.a0a(),t)],r),C.Q,C.U,C.R,s)],r),C.bH,C.U,C.R),s)},
+return new T.bR(C.L8,T.cL(H.a([w,v,u,T.ho(H.a([U.ep(L.c9(T.cd("Contact Me",s,"contact_me",H.a([],x),s),s,s,s,s,s,s,s,s,C.aQ,s,s),new K.a09(),t),U.ep(L.c9("Disclaimer",s,s,s,s,s,s,s,s,s,s,s),new K.a0a(),t),U.ep(L.c9("Cookie Policy",s,s,s,s,s,s,s,s,s,s,s),new K.a0b(),t)],r),C.Q,C.U,C.R,s)],r),C.bH,C.U,C.R),s)},
 fD(){return!0}}
 K.Sj.prototype={}
 var z=a.updateTypes([])
-K.a08.prototype={
+K.a09.prototype={
 $0(){return D.d0("contact")},
 $S:0}
-K.a09.prototype={
+K.a0a.prototype={
 $0(){D.d0("disclaimer")},
 $S:0}
-K.a0a.prototype={
+K.a0b.prototype={
 $0(){D.d0("cookie-policy")},
 $S:0};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
 w(K.Sj,N.ae)
 w(K.o1,K.Sj)
-v(H.fv,[K.a08,K.a09,K.a0a])
+v(H.fv,[K.a09,K.a0a,K.a0b])
 x(K.Sj,N.cf)})()
 H.ey(b.typeUniverse,JSON.parse('{"o1":{"ae":[],"cf":[],"h":[]}}'))
 var y={h:H.D("o<w>"),e:H.D("o<h>"),a:H.D("fg")};(function constants(){C.L7=new V.aR(10,10,10,10)
 C.L8=new V.aR(10,30,10,30)})()}
-$__dart_deferred_initializers__["/o1YCiyvT0xVyN3yNDlU/wZM5GM="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["ejtqiEV5eA9enypTopL605tayVc="] = $__dart_deferred_initializers__.current
