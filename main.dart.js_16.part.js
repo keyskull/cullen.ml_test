@@ -1,23 +1,14 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z={
-aOt(){var x=F.dS(new Z.e5("Dashboard")),w=T.cR(C.cP,C.V,C.W,C.X)
-return new Z.on(x,w,N.lN(null,C.bp),null)},
-on:function on(d,e,f,g){var _=this
-_.e=d
-_.f=e
-_.c=f
-_.a=g},
-a3_:function a3_(){},
-a2Z:function a2Z(){},
-a2Y:function a2Y(d){this.a=d},
-a2X:function a2X(d,e,f){this.a=d
-this.b=e
-this.c=f},
-a2W:function a2W(d,e,f){this.a=d
-this.b=e
-this.c=f},
-a2V:function a2V(d){this.a=d}}
-a.setFunctionNamesIfNecessary([Z])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
+aNS(){var x=null
+return new K.nW(U.aEq(x,x,x,x,x,!1,x,x,x,x,C.mT,x,x,x,x,x,x,x,x),N.lK(x,x,x),x)},
+nW:function nW(d,e,f){this.e=d
+this.c=e
+this.a=f},
+a_R:function a_R(){},
+a_S:function a_S(){},
+a_T:function a_T(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+a.setFunctionNamesIfNecessary([K])
 A=c[0]
 B=c[1]
 C=c[2]
@@ -27,7 +18,7 @@ F=c[5]
 G=c[6]
 H=c[7]
 J=c[8]
-K=c[9]
+K=a.updateHolder(c[9],K)
 L=c[10]
 M=c[11]
 N=c[12]
@@ -42,66 +33,33 @@ V=c[20]
 W=c[21]
 X=c[22]
 Y=c[23]
-Z=a.updateHolder(c[24],Z)
-Z.on.prototype={
-I(d,e){this.e.af(C.A,new Z.a2Z().$1(new Z.a3_().$2("%21AGY6_ztDygzI5NM","999E85DE237BA141%21215929")),null,null)
-return B.mp(new Z.a2Y(this),G.wg(P.eU("https://api.onedrive.com/v1.0/shares/s!AEGheyPehZ6ZjZcb/driveItem/children?select=name,webUrl",0,null)),y.f)},
-fC(){return!0}}
-var z=a.updateTypes(["h(ae,d4<dt>)"])
-Z.a3_.prototype={
-$2(d,e){return"https://onedrive.live.com/redir?resid="+e+"&authKey="+d},
-$S:50}
-Z.a2Z.prototype={
-$1(d){var x=C.c7.bN(d)
-return"u!"+C.ja.gi7().bN(x)},
-$S:15}
-Z.a2Y.prototype={
-$2(d,e){var x,w,v,u,t,s,r,q=null
-if(e.a===C.bg){x=e.c
-w=this.a
-v=w.e
-if(x!=null){w=J.dJ(x)
-v.af(C.bQ,w.j(x),q,q)
-return new V.fq(w.j(x),q)}else{x=e.gjm()
-u=y.i.a(J.as(C.ap.lf(0,B.F7(U.EY(x.e).c.a.i(0,"charset")).cB(0,x.x),q),"value"))
-x=J.ak(u)
-v.af(C.A,"note count:"+C.e.j(x.gl(u)),q,q)
-t=x.gl(u)
-v=y.e
-s=J.oV(t,v)
-for(r=0;r<t;++r)s[r]=U.em(new L.cw(J.as(x.i(u,r),"name"),q,q,q,q,q,q,q,q,q,q,q,q,q,q),new Z.a2X(w,u,r),q)
-x=P.ax(s,!0,v)
-x.push(w.f)
-return T.cR(x,C.V,C.W,C.X)}}else return C.c8},
-$S:z+0}
-Z.a2X.prototype={
-$0(){var x=this.a
-x.c.c.$1(new Z.a2W(x,this.b,this.c))},
+Z=c[24]
+K.nW.prototype={
+H(d,e){var x,w,v,u,t=null,s=y.a
+L.c2(e,C.Z,s).toString
+x=y.h
+w=L.bO(T.cm("About",t,"about",H.a([],x),t),t,C.ER,t,t)
+L.c2(e,C.Z,s).toString
+v=L.bO(T.cm("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ES,t,t)
+u=this.e
+L.c2(e,C.Z,s).toString
+s=y.e
+return new T.bU(C.Lx,T.dp(H.a([w,C.mJ,v,T.kf(H.a([U.eS(L.bO(T.cm("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aL,t),new K.a_R(),u),U.eS(C.a6A,new K.a_S(),u),U.eS(C.a6t,new K.a_T(),u)],s),C.aa,C.a7,C.a8,t)],s),C.bu,C.a7,C.a8),t)},
+iC(){return!0}}
+var z=a.updateTypes([])
+K.a_R.prototype={
+$0(){return D.cN("contact")},
 $S:0}
-Z.a2W.prototype={
-$0(){var x=this.a,w=this.b,v=this.c,u=J.ak(w)
-x.e.af(C.A,J.a_J(J.co(J.as(u.i(w,v),"webUrl")),18),null,null)
-x.f=B.mp(new Z.a2V(x),G.wg(P.eU("https://api.onedrive.com/v1.0/shares/"+J.a_J(J.co(J.as(u.i(w,v),"webUrl")),18)+"/driveItem/children?select=name,webUrl",0,null)),y.f)},
+K.a_S.prototype={
+$0(){D.cN("disclaimer")},
 $S:0}
-Z.a2V.prototype={
-$2(d,e){var x,w,v,u,t,s,r,q=null
-if(e.a===C.bg){x=e.c
-w=this.a.e
-if(x!=null){v=J.dJ(x)
-w.af(C.bQ,v.j(x),q,q)
-return new V.fq(v.j(x),q)}else{x=e.gjm()
-u=y.i.a(J.as(C.ap.lf(0,B.F7(U.EY(x.e).c.a.i(0,"charset")).cB(0,x.x),q),"value"))
-x=J.ak(u)
-w.af(C.A,"note count:"+C.e.j(x.gl(u)),q,q)
-t=x.gl(u)
-s=J.oV(t,y.e)
-for(r=0;r<t;++r)s[r]=new L.cw(J.as(x.i(u,r),"name"),q,q,q,q,q,q,q,q,q,q,q,q,q,q)
-return T.cR(s,C.V,C.W,C.X)}}else return C.c8},
-$S:z+0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(Z.on,N.bF)
-w(H.f7,[Z.a3_,Z.a2Y,Z.a2V])
-x(Z.a2Z,H.bB)
-w(H.ep,[Z.a2X,Z.a2W])})()
-H.dI(b.typeUniverse,JSON.parse('{"on":{"bF":[],"Q":[],"h":[]}}'))
-var y={i:H.D("t<@>"),f:H.D("dt"),e:H.D("h")}}
-$__dart_deferred_initializers__["f7n5oa/pHGEZr6OrRwo4YR0dtZo="] = $__dart_deferred_initializers__.current
+K.a_T.prototype={
+$0(){D.cN("cookie-policy")},
+$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(K.nW,N.bD)
+w(H.eF,[K.a_R,K.a_S,K.a_T])})()
+H.dx(b.typeUniverse,JSON.parse('{"nW":{"bD":[],"U":[],"h":[]}}'))
+var y={h:H.C("p<v>"),e:H.C("p<h>"),a:H.C("fg")};(function constants(){C.Lx=new V.aS(10,30,10,30)
+C.a6t=new L.dH("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.a6A=new L.dH("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["bv7q+lAc/fkoPkX/XA6bFE9Jn+g="] = $__dart_deferred_initializers__.current

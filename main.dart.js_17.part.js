@@ -1,12 +1,11 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N={
-aQT(){return new N.pI(N.lN(null,C.bp),null)},
-pI:function pI(d,e){this.c=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z={
+aOI(){var x=null
+return new Z.oi(N.lK(x,x,x),x)},
+oi:function oi(d,e){this.c=d
 this.a=e},
-adW:function adW(){},
-adV:function adV(d){this.a=d},
-adU:function adU(){}},O,P,Q,R,S,T,U,V,W,X,Y,Z
-a.setFunctionNamesIfNecessary([N])
+a2D:function a2D(){}}
+a.setFunctionNamesIfNecessary([Z])
 A=c[0]
 B=c[1]
 C=c[2]
@@ -19,7 +18,7 @@ J=c[8]
 K=c[9]
 L=c[10]
 M=c[11]
-N=a.updateHolder(c[12],N)
+N=c[12]
 O=c[13]
 P=c[14]
 Q=c[15]
@@ -31,33 +30,39 @@ V=c[20]
 W=c[21]
 X=c[22]
 Y=c[23]
-Z=c[24]
-N.pI.prototype={
-I(d,e){var x=y.b
-return B.mp(new N.adV(F.dS(new Z.e5("Projects"))),G.wg(P.eU("https://api.onedrive.com/v1.0/shares/s!AEGheyPehZ6ZjKk8/driveItem",0,null)).aN(0,new N.adW(),x),x)},
-fC(){return!0}}
-var z=a.updateTypes(["a0<dt>(dt)","h(ae,d4<dt>)"])
-N.adW.prototype={
-$1(d){return G.wg(P.eU(H.cG(J.as(C.ap.lf(0,B.F7(U.EY(d.e).c.a.i(0,"charset")).cB(0,d.x),null),"@content.downloadUrl")),0,null))},
-$S:z+0}
-N.adV.prototype={
-$2(d,e){var x,w,v,u=null
-if(e.a===C.bg){x=e.c
-w=this.a
-if(x!=null){v=J.dJ(x)
-w.af(C.bQ,v.j(x),u,u)
-return new V.fq(v.j(x),u)}else{w.af(C.A,C.d3.bN(e.gjm().x),u,u)
-x=C.m0.bN(C.b1.cB(0,e.gjm().x))
-w=H.a5(x).h("au<1,cw>")
-return T.cR(P.ax(new H.au(x,new N.adU(),w),!0,w.h("az.E")),C.V,C.W,C.X)}}else return C.c8},
-$S:z+1}
-N.adU.prototype={
-$1(d){var x=null
-return L.cZ(d,x,x,x,x,x,x,x,x,x,x,x)},
-$S:463};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(N.pI,N.bF)
-w(H.bB,[N.adW,N.adU])
-x(N.adV,H.f7)})()
-H.dI(b.typeUniverse,JSON.parse('{"pI":{"bF":[],"Q":[],"h":[]}}'))
-var y={b:H.D("dt")}}
-$__dart_deferred_initializers__["Y2gTXEDKanYUkL4Kf6TUZ2ba09M="] = $__dart_deferred_initializers__.current
+Z=a.updateHolder(c[24],Z)
+Z.oi.prototype={
+H(d,e){var x,w,v,u=null
+L.c2(e,C.Z,y.a).toString
+x=L.bO(T.cm("Contact Me",u,"contact_me",H.a([],y.h),u),u,C.a5I,u,u)
+w=F.aCJ(new Z.a2D(),C.ER,"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.al)
+v=$.kg.b*0.6
+return new T.bU(C.Ly,T.dp(H.a([x,C.mJ,w,M.by(u,u,C.l,u,u,C.G4,u,v,u,u,u,u,v)],y.e),C.aa,C.a7,C.a8),u)},
+iC(){return!0}}
+var z=a.updateTypes(["Y<~>(hk)"])
+Z.a2D.prototype={
+$1(d){return this.Sw(d)},
+Sw(d){var x=0,w=P.R(y.f),v
+var $async$$1=P.N(function(e,f){if(e===1)return P.O(f,w)
+while(true)switch(x){case 0:v=d.b
+x=5
+return P.a7(T.Fc(v),$async$$1)
+case 5:x=f?2:4
+break
+case 2:x=6
+return P.a7(T.m4(v),$async$$1)
+case 6:x=3
+break
+case 4:throw H.b("Could not launch "+d.j(0))
+case 3:return P.P(null,w)}})
+return P.Q($async$$1,w)},
+$S:z+0};(function inheritance(){var x=a.inherit
+x(Z.oi,N.bD)
+x(Z.a2D,H.bH)})()
+H.dx(b.typeUniverse,JSON.parse('{"oi":{"bD":[],"U":[],"h":[]}}'))
+var y={h:H.C("p<v>"),e:H.C("p<h>"),a:H.C("fg"),f:H.C("~")};(function constants(){C.FF=new L.hX("images/4ddce98e9381ffa68cf9967919669e4.png",null,null)
+C.L7=new X.kX(C.FF,null,null,C.cu)
+C.G4=new S.cb(null,C.L7,null,null,null,null,C.O)
+C.Ly=new V.aS(10,80,10,30)
+C.a5I=new A.A(!0,null,null,null,null,null,50,C.ej,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["mRXkWZ5J7PvsBwBjr8LmdmdJomY="] = $__dart_deferred_initializers__.current
