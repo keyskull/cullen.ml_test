@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aNS(){var x=null
-return new K.nW(U.aEq(x,x,x,x,x,!1,x,x,x,x,C.mT,x,x,x,x,x,x,x,x),N.lK(x,x,x),x)},
+aNR(){var x=null
+return new K.nW(U.aEo(x,x,x,x,x,!1,x,x,x,x,C.mS,x,x,x,x,x,x,x,x),N.lK(x,x,x),x)},
 nW:function nW(d,e,f){this.e=d
 this.c=e
 this.a=f},
@@ -38,13 +38,13 @@ K.nW.prototype={
 H(d,e){var x,w,v,u,t=null,s=y.a
 L.c2(e,C.Z,s).toString
 x=y.h
-w=L.bO(T.cm("About",t,"about",H.a([],x),t),t,C.ER,t,t)
+w=L.bO(T.cm("About",t,"about",H.a([],x),t),t,C.EQ,t,t)
 L.c2(e,C.Z,s).toString
-v=L.bO(T.cm("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ES,t,t)
+v=L.bO(T.cm("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ER,t,t)
 u=this.e
 L.c2(e,C.Z,s).toString
 s=y.e
-return new T.bU(C.Lx,T.dp(H.a([w,C.mJ,v,T.kf(H.a([U.eS(L.bO(T.cm("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aL,t),new K.a_R(),u),U.eS(C.a6A,new K.a_S(),u),U.eS(C.a6t,new K.a_T(),u)],s),C.aa,C.a7,C.a8,t)],s),C.bu,C.a7,C.a8),t)},
+return new T.bU(C.Lx,T.dp(H.a([w,C.mI,v,T.kf(H.a([U.eS(L.bO(T.cm("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aL,t),new K.a_R(),u),U.eS(C.a6A,new K.a_S(),u),U.eS(C.a6t,new K.a_T(),u)],s),C.aa,C.a7,C.a8,t)],s),C.bu,C.a7,C.a8),t)},
 iC(){return!0}}
 var z=a.updateTypes([])
 K.a_R.prototype={
@@ -62,4 +62,4 @@ H.dx(b.typeUniverse,JSON.parse('{"nW":{"bD":[],"U":[],"h":[]}}'))
 var y={h:H.C("p<v>"),e:H.C("p<h>"),a:H.C("fg")};(function constants(){C.Lx=new V.aS(10,30,10,30)
 C.a6t=new L.dH("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.a6A=new L.dH("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["bv7q+lAc/fkoPkX/XA6bFE9Jn+g="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["JxzMVKGLttVWj2TaVb1VnhNTQtI="] = $__dart_deferred_initializers__.current
