@@ -46,7 +46,7 @@ v=L.bY(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passi
 u=this.f
 L.c3(e,C.Z,s).toString
 s=y.e
-return new T.bU(C.Ly,T.dr(H.a([w,C.mI,v,T.kg(H.a([U.fm(L.bY(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a_W(),u),U.fm(C.a6H,new K.a_X(),u),U.fm(C.a6A,new K.a_Y(),u)],s),C.a9,C.a6,C.a7,t)],s),C.bu,C.a6,C.a7),t)}}
+return new T.bU(C.LB,T.dr(H.a([w,C.mI,v,T.kh(H.a([U.fm(L.bY(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a_W(),u),U.fm(C.a6K,new K.a_X(),u),U.fm(C.a6D,new K.a_Y(),u)],s),C.a9,C.a6,C.a7,t)],s),C.bu,C.a6,C.a7),t)}}
 var z=a.updateTypes([])
 K.a_W.prototype={
 $0(){return D.cz("contact")},
@@ -60,7 +60,7 @@ $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(K.nV,N.bE)
 w(H.eF,[K.a_W,K.a_X,K.a_Y])})()
 H.da(b.typeUniverse,JSON.parse('{"nV":{"bE":[],"U":[],"h":[]}}'))
-var y={h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg")};(function constants(){C.Ly=new V.aR(10,30,10,30)
-C.a6A=new L.dI("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.a6H=new L.dI("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["GttU6C1nDBREvomjiXCU3wU6BZ4="] = $__dart_deferred_initializers__.current
+var y={h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg")};(function constants(){C.LB=new V.aR(10,30,10,30)
+C.a6D=new L.dI("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.a6K=new L.dI("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["SkpXLdfpg5nr24Ojeqs3VAsKWoY="] = $__dart_deferred_initializers__.current

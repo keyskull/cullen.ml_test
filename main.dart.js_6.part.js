@@ -116,11 +116,11 @@ t=H.a([v,t,U.fm(r.$1(T.cl("Disclaimer",s,"disclaimer",H.a([],x),s)),new N.a6R(),
 L.c3(e,C.Z,p).toString
 v=H.a([U.fm(r.$1(T.cl("My Github",s,"my_github",H.a([],x),s)),new N.a6S(),C.bs),U.fm(r.$1("Web Browser"),new N.a6T(),C.bs),M.bJ(s,s,C.l,s,s,s,s,s,s,s,s,s,s)],u)
 L.c3(e,C.Z,p).toString
-v=S.aEE(s,H.a([new S.em(s,q),C.a3f,new S.em(s,w),new S.em(s,t),new S.em(s,v),new S.em(s,H.a([U.fm(r.$1(T.cl("My Linkedin Profile",s,"my_linkedin_profile",H.a([],x),s)),new N.a6U(),C.bs),M.bJ(s,s,C.l,s,s,s,s,s,s,s,s,s,s),M.bJ(s,s,C.l,s,s,s,s,s,s,s,s,s,s)],u))],y.S),C.jd,C.f0)
+v=S.aEE(s,H.a([new S.em(s,q),C.a3i,new S.em(s,w),new S.em(s,t),new S.em(s,v),new S.em(s,H.a([U.fm(r.$1(T.cl("My Linkedin Profile",s,"my_linkedin_profile",H.a([],x),s)),new N.a6U(),C.bs),M.bJ(s,s,C.l,s,s,s,s,s,s,s,s,s,s),M.bJ(s,s,C.l,s,s,s,s,s,s,s,s,s,s)],u))],y.S),C.je,C.f0)
 L.c3(e,C.Z,p).toString
 t=F.aD_(new N.a6V(),s,T.cl("Jialin Li's Portfolio \xa9 2021 by Jialin Li is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/",s,"license_announcement",H.a([],x),s),C.aC)
 L.c3(e,C.Z,p).toString
-return M.bJ(C.ac,T.dr(H.a([C.fy,v,C.Lm,new T.bU(C.mS,t,s),U.fm(r.$1(T.cl("Contact Me",s,"contact_me",H.a([],x),s)),new N.a6W(),C.bs)],u),C.a9,C.a6,C.a7),C.l,s,s,C.G6,s,s,s,s,s,s,s)}}
+return M.bJ(C.ac,T.dr(H.a([C.fz,v,C.Lp,new T.bU(C.mS,t,s),U.fm(r.$1(T.cl("Contact Me",s,"contact_me",H.a([],x),s)),new N.a6W(),C.bs)],u),C.a9,C.a6,C.a7),C.l,s,s,C.G6,s,s,s,s,s,s,s)}}
 B.Jl.prototype={
 O3(d){return this.fx}}
 var z=a.updateTypes(["f(df)","df(f)","k(df,df)","jG(f)","Y<~>(hl)"])
@@ -132,7 +132,7 @@ x=1
 break
 case 1:return P.P(v,w)}})
 return P.Q($async$$0,w)},
-$S:157}
+$S:158}
 N.a1t.prototype={
 $1(d){return this.Sz(d)},
 Sz(d){var x=0,w=P.R(y.N),v
@@ -149,10 +149,10 @@ x=1
 break
 case 1:return P.P(v,w)}})
 return P.Q($async$$1,w)},
-$S:158}
+$S:159}
 N.a1r.prototype={
 $1(d){return B.Fg(U.F7(d.e).c.a.h(0,"charset")).cD(0,d.x)},
-$S:159}
+$S:160}
 N.a1u.prototype={
 $1(d){var x,w,v,u,t,s,r="StringList",q=this.b
 q.hm("String","metadata.json",d)
@@ -169,14 +169,14 @@ t=q.tF("blog")
 if(t==null)t=H.a([],y.s)
 s=P.i8(t,H.a5(t).c)
 s.J(0,new H.at(v,new N.a1q(),w))
-q.hm(r,"blog",P.av(s,!0,H.t(s).i("c9.E")))
+q.hm(r,"blog",P.av(s,!0,H.t(s).i("ca.E")))
 return u},
-$S:62}
+$S:83}
 N.a1l.prototype={
 $1(d){var x,w,v,u
 for(x=this.a,w=J.l(x),v=J.aK(w.gao(x));v.q();){u=v.gC(v)
 d.hm("String",u,C.ao.rf(w.h(x,u),null))}},
-$S:160}
+$S:161}
 N.a1m.prototype={
 $1(d){return C.b.u(H.cK(J.ar(J.ar(this.a,d),"path")),"publish/blog")},
 $S:11}
@@ -210,7 +210,7 @@ x=1
 break
 case 1:return P.P(v,w)}})
 return P.Q($async$$1,w)},
-$S:161}
+$S:162}
 N.a1j.prototype={
 $2(d,e){var x,w,v,u=null
 if(e.a===C.bG){x=e.c
@@ -223,20 +223,20 @@ if(w!=null)v=J.avY(v,w).d_(0)
 w=J.dA(v)
 x.c.af(C.y,C.b.M("data = ",w.j(v)),u,u)
 return T.dr(w.f8(v,new N.a1i(),y.k).d_(0),C.a9,C.a6,C.a7)}}else return C.d8},
-$S:162}
+$S:163}
 N.a1i.prototype={
 $1(d){var x=E.aCe(C.ao.mu(0,d,null)),w=U.ax1("images/4ddce98e9381ffa68cf9967919669e4.png",null,5,null)
 return L.aBw("Cullen Lee",new N.a1h(x),P.aC7(x.c*1000).j(0),w,x.b)},
 $S:z+3}
 N.a1h.prototype={
 $0(){D.cz("blog/"+this.a.b)},
-$S:3}
+$S:2}
 N.a6K.prototype={
 $1(d){return L.bY(d,null,null,C.aC,null)},
-$S:163}
+$S:164}
 N.a6L.prototype={
-$1(d){return L.bY(d,null,C.a5Q,C.aC,null)},
-$S:163}
+$1(d){return L.bY(d,null,C.a5T,C.aC,null)},
+$S:164}
 N.a6M.prototype={
 $0(){return D.cz("about-me")},
 $S:0}
@@ -292,18 +292,18 @@ w(B.Jl,B.AV)})()
 H.da(b.typeUniverse,JSON.parse('{"Gq":{"an":[],"h":[]},"KJ":{"an":[],"h":[]},"Jl":{"an":[],"h":[]}}'))
 var y=(function rtii(){var x=H.z
 return{k:x("jG"),n:x("df"),f:x("p<v>"),s:x("p<f>"),S:x("p<em>"),p:x("p<h>"),a:x("u<f>"),P:x("ah"),t:x("fg"),N:x("f"),T:x("f?"),H:x("~")}})();(function constants(){var x=a.makeConstList
-C.KQ=new P.y(4294960511)
-C.KN=new P.y(4294956864)
-C.KI=new P.y(4294951936)
-C.KE=new P.y(4294945536)
-C.a0i=new H.bt([100,C.KQ,200,C.KN,400,C.KI,700,C.KE],H.z("bt<k,y>"))
-C.a0x=new E.z8(C.a0i,4294956864)
-C.G6=new S.cb(C.a0x,null,null,null,null,null,C.P)
+C.KS=new P.y(4294960511)
+C.KP=new P.y(4294956864)
+C.KK=new P.y(4294951936)
+C.KG=new P.y(4294945536)
+C.a0l=new H.bt([100,C.KS,200,C.KP,400,C.KK,700,C.KG],H.z("bt<k,y>"))
+C.a0A=new E.z8(C.a0l,4294956864)
+C.G6=new S.c7(C.a0A,null,null,null,null,null,C.M)
 C.bs=new A.br(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null)
-C.Lm=new Z.rB(3,null)
-C.fy=new Z.rB(null,null)
-C.a5Q=new A.B(!0,null,null,null,null,null,15,C.n3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.Lp=new Z.rB(3,null)
+C.fz=new Z.rB(null,null)
+C.a5T=new A.B(!0,null,null,null,null,null,15,C.n3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.n4=new N.KJ(null)
-C.Vs=H.a(x([C.fy,C.fy,C.fy]),y.p)
-C.a3f=new S.em(null,C.Vs)})()}
-$__dart_deferred_initializers__["Rb+D9VKdeaz1mP+d04Stq4p71Zs="] = $__dart_deferred_initializers__.current
+C.Vv=H.a(x([C.fz,C.fz,C.fz]),y.p)
+C.a3i=new S.em(null,C.Vv)})()}
+$__dart_deferred_initializers__["DGJQZOai35yl57iGFCOaSWhilRE="] = $__dart_deferred_initializers__.current

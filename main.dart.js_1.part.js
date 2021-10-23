@@ -30,7 +30,7 @@ while(true)switch(x){case 0:u=$.hd
 x=3
 return P.a7((u==null?$.hd=$.qR():u).mH(null,null),$async$a6d)
 case 3:t=e
-E.eQ(t,$.kL())
+E.eQ(t,$.kM())
 v=new K.i2(t)
 x=1
 break
@@ -95,7 +95,7 @@ E.a5L.prototype={
 rJ(d,e){return this.agQ(0,e)},
 agQ(d,e){var x=0,w=P.R(y.v),v=this
 var $async$rJ=P.N(function(f,g){if(f===1)return P.O(g,w)
-while(true)switch(x){case 0:if(C.c.u(C.T2,e))throw H.b(P.eg(e,"name","Event name is reserved and cannot be used"))
+while(true)switch(x){case 0:if(C.c.u(C.T5,e))throw H.b(P.eg(e,"name","Event name is reserved and cannot be used"))
 if(C.b.b6(e,"firebase_"))throw H.b(P.eg(e,"name",'Prefix "firebase_" is reserved and cannot be used.'))
 x=2
 return P.a7(v.a.x_(0,e,null),$async$rJ)
@@ -110,11 +110,11 @@ case 2:return P.P(null,w)}})
 return P.Q($async$tN,w)}}
 A.rN.prototype={
 a8r(d){var x=d.$ti.i("js<bX.T,jj?>")
-return P.aTq(new P.js(new A.a5V(this),d,x),null,new A.a5W(),x.i("bX.T"))},
+return P.aTo(new P.js(new A.a5V(this),d,x),null,new A.a5W(),x.i("bX.T"))},
 j(d){return"FirebaseAuth(app: "+this.f.a.b+")"}}
 A.jj.prototype={
 j(d){var x="metadata",w=this.a,v=w.c
-return C.a7W.j(0)+"(displayName: "+H.c(v.h(0,"displayName"))+", email: "+H.c(v.h(0,"email"))+", emailVerified: "+H.c(v.h(0,"emailVerified"))+", isAnonymous: "+H.c(v.h(0,"isAnonymous"))+", metadata: "+new Y.alc(J.ar(v.h(0,x),"creationTime"),J.ar(v.h(0,x),"lastSignInTime")).j(0)+", phoneNumber: "+H.c(v.h(0,"phoneNumber"))+", photoURL: "+H.c(v.h(0,"photoURL"))+", providerData, "+H.c(w.gt7(w))+", refreshToken: "+H.c(v.h(0,"refreshToken"))+", tenantId: "+H.c(v.h(0,"tenantId"))+", uid: "+v.h(0,"uid")+")"}}
+return C.a7Z.j(0)+"(displayName: "+H.c(v.h(0,"displayName"))+", email: "+H.c(v.h(0,"email"))+", emailVerified: "+H.c(v.h(0,"emailVerified"))+", isAnonymous: "+H.c(v.h(0,"isAnonymous"))+", metadata: "+new Y.alc(J.ar(v.h(0,x),"creationTime"),J.ar(v.h(0,x),"lastSignInTime")).j(0)+", phoneNumber: "+H.c(v.h(0,"phoneNumber"))+", photoURL: "+H.c(v.h(0,"photoURL"))+", providerData, "+H.c(w.gt7(w))+", refreshToken: "+H.c(v.h(0,"refreshToken"))+", tenantId: "+H.c(v.h(0,"tenantId"))+", uid: "+v.h(0,"uid")+")"}}
 Q.pd.prototype={
 a_8(d){var x=null,w=d.a.b,v=y.w,u=y.F
 C.zh.dI("Auth#registerIdTokenListener",P.aB(["appName",w],v,v),!1,v).aH(0,new Q.abF(this,d),u)
@@ -214,17 +214,17 @@ $S:z+2}
 Q.abF.prototype={
 $1(d){d.toString
 new A.Kb(d,C.aT).Rx().mM(0,new Q.abE(this.a,this.b))},
-$S:164}
+$S:165}
 Q.abE.prototype={
 $1(d){this.a.As(this.b.a.b,d)},
-$S:13}
+$S:12}
 Q.abG.prototype={
 $1(d){d.toString
 new A.Kb(d,C.aT).Rx().mM(0,new Q.abD(this.a,this.b))},
-$S:164}
+$S:165}
 Q.abD.prototype={
 $1(d){this.a.Ak(this.b.a.b,d)},
-$S:13}
+$S:12}
 Q.abH.prototype={
 $0(){return Q.aR7(this.a)},
 $S:z+3}
@@ -237,16 +237,16 @@ this.a.a.af(C.y,"RoutePathListeners run.",null,null)
 x=$.azJ()
 x.tN(0,d.c).aH(0,new X.a62(d),y.v).l5(new X.a63(),new X.a64())
 x.rJ(0,"page_view")},
-$S:137}
+$S:149}
 X.a62.prototype={
 $1(d){return P.a_l("firebaseAnalytics.setCurrentScreen(screenName: "+this.a.c+")","firebaseAnalytics.setCurrentScreen")},
-$S:59}
+$S:61}
 X.a63.prototype={
 $1(d){D.ava().$1(": "+H.c(d))},
 $S:481}
 X.a64.prototype={
 $1(d){return d instanceof F.pu},
-$S:90}
+$S:89}
 X.a61.prototype={
 $1(d){var x,w,v,u,t,s="APP_CURRENT_USER"
 $.azJ().rJ(0,"app_open")
@@ -289,7 +289,7 @@ break
 case 5:return P.P(null,w)
 case 1:return P.O(u,w)}})
 return P.Q($async$$0,w)},
-$S:40}
+$S:39}
 A.a5m.prototype={
 $1(d){return this.SB(d)},
 SB(d){var x=0,w=P.R(y.F),v,u=[],t=this,s,r,q
@@ -328,7 +328,7 @@ break
 case 5:return P.P(null,w)
 case 1:return P.O(u,w)}})
 return P.Q($async$$0,w)},
-$S:40};(function inheritance(){var x=a.inheritMany,w=a.inherit
+$S:39};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(P.v,[E.a5L,A.jj,Q.hR,X.rO,A.Kb])
 w(N.a69,E.OU)
 w(A.rN,N.a69)
@@ -338,17 +338,17 @@ w(Q.pd,L.Ko)
 w(Y.tq,B.d7)})()
 H.da(b.typeUniverse,JSON.parse('{"tq":{"d7":[]}}'))
 var y={c:H.z("i2"),F:H.z("ah"),w:H.z("f"),t:H.z("hM<hR<d7>>"),C:H.z("hM<@>"),e:H.z("hR<d7>"),b:H.z("@"),k:H.z("d7?"),v:H.z("~")};(function constants(){var x=a.makeConstList
-C.T2=H.a(x(["ad_activeview","ad_click","ad_exposure","ad_impression","ad_query","adunit_exposure","app_clear_data","app_uninstall","app_update","error","first_open","first_visit","in_app_purchase","notification_dismiss","notification_foreground","notification_open","notification_receive","os_update","session_start","user_engagement"]),H.z("p<f>"))
+C.T5=H.a(x(["ad_activeview","ad_click","ad_exposure","ad_impression","ad_query","adunit_exposure","app_clear_data","app_uninstall","app_update","error","first_open","first_visit","in_app_purchase","notification_dismiss","notification_foreground","notification_open","notification_receive","os_update","session_start","user_engagement"]),H.z("p<f>"))
 C.zh=new A.fe("plugins.flutter.io/firebase_auth",C.aT,null)
-C.a7W=H.al("jj")
+C.a7Z=H.al("jj")
 C.lF=new Q.hR(null,y.e)})();(function staticFields(){$.aPY=P.r(y.w,H.z("rN"))
 $.axh=P.r(y.w,H.z("pd"))
 $.aDg=P.r(y.w,H.z("hD<hR<d7>>"))
 $.aDh=P.r(y.w,H.z("hD<hR<d7>>"))
 $.axi=P.r(y.w,H.z("hD<hR<d7>>"))})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"aZI","aIa",function(){return new P.v()})
-x($,"aZG","azJ",function(){var w=$.aI6()
+x($,"aZG","aIa",function(){return new P.v()})
+x($,"aZE","azJ",function(){var w=$.aI6()
 U.hT()
 return new E.a5L(w,null)})
-x($,"aZF","aI9",function(){return A.aPX(K.aQ0())})})()}
-$__dart_deferred_initializers__["oOnx+6OewEoaVTfxe4vOHQANvJg="] = $__dart_deferred_initializers__.current
+x($,"aZD","aI9",function(){return A.aPX(K.aQ0())})})()}
+$__dart_deferred_initializers__["7mvfA2mtvHpWcN6gaM8D406N5AI="] = $__dart_deferred_initializers__.current

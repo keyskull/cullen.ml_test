@@ -35,10 +35,10 @@ Z=a.updateHolder(c[24],Z)
 Z.oh.prototype={
 H(d,e){var x,w,v,u=null
 L.c3(e,C.Z,y.a).toString
-x=L.bY(T.cl("Contact Me",u,"contact_me",H.a([],y.h),u),u,C.a5P,u,u)
+x=L.bY(T.cl("Contact Me",u,"contact_me",H.a([],y.h),u),u,C.a5S,u,u)
 w=F.aD_(new Z.a2J(),C.ER,"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.al)
 v=$.il.b*0.6
-return new T.bU(C.Lz,T.dr(H.a([x,C.mI,w,M.bJ(u,u,C.l,u,u,C.G4,u,v,u,u,u,u,v)],y.e),C.a9,C.a6,C.a7),u)}}
+return new T.bU(C.LC,T.dr(H.a([x,C.mI,w,M.bJ(u,u,C.l,u,u,C.G4,u,v,u,u,u,u,v)],y.e),C.a9,C.a6,C.a7),u)}}
 var z=a.updateTypes(["Y<~>(hl)"])
 Z.a2J.prototype={
 $1(d){return this.SA(d)},
@@ -60,9 +60,8 @@ $S:z+0};(function inheritance(){var x=a.inherit
 x(Z.oh,N.bE)
 x(Z.a2J,H.bI)})()
 H.da(b.typeUniverse,JSON.parse('{"oh":{"bE":[],"U":[],"h":[]}}'))
-var y={h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg"),f:H.z("~")};(function constants(){C.FF=new L.hY("images/4ddce98e9381ffa68cf9967919669e4.png",null,null)
-C.L9=new X.kY(C.FF,null,null,C.cw)
-C.G4=new S.cb(null,C.L9,null,null,null,null,C.P)
-C.Lz=new V.aR(10,80,10,30)
-C.a5P=new A.B(!0,null,null,null,null,null,50,C.ej,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["7EG/TJotDnTnhZenUg4YxbB7QLg="] = $__dart_deferred_initializers__.current
+var y={h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg"),f:H.z("~")};(function constants(){C.Lb=new X.jP(C.lL,null,null,C.c4)
+C.G4=new S.c7(null,C.Lb,null,null,null,null,C.M)
+C.LC=new V.aR(10,80,10,30)
+C.a5S=new A.B(!0,null,null,null,null,null,50,C.ej,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["IYtyigQPlvlu3slzL88fZ7+JAP0="] = $__dart_deferred_initializers__.current

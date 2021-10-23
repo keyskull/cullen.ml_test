@@ -105,10 +105,10 @@ _.r2=a4
 _.rx=a5
 _.ry=a6
 _.a=a7}},E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T={
-aYl(){var x=null,w=K.iA(40)
-return A.aDt(new Y.bH(C.cN,1,C.C),new T.bU(C.mQ,T.kg(H.a([L.bY("Sign in",x,A.jg(x,x,C.cN,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x)],y.e),C.a9,C.dA,C.cm,x),x),0,new T.avj(),new X.c5(w,C.u),C.cN)},
-aXx(){var x=null,w=K.iA(40)
-return A.aDt(new Y.bH(C.cN,1,C.C),new T.bU(C.mQ,T.kg(H.a([new U.eM(new L.hY("assets/google_logo.png",x,"firebase_integration"),x,35,x),new T.bU(C.mR,L.bY("Sign in with Google",x,A.jg(x,x,C.cN,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),x)],y.e),C.a9,C.dA,C.cm,x),x),0,new T.aur(),new X.c5(w,C.u),C.cN)},
+aYj(){var x=null,w=K.iA(40)
+return A.aDt(new Y.bH(C.cN,1,C.C),new T.bU(C.mQ,T.kh(H.a([L.bY("Sign in",x,A.jg(x,x,C.cN,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x)],y.e),C.a9,C.dA,C.cn,x),x),0,new T.avj(),new X.c5(w,C.u),C.cN)},
+aXv(){var x=null,w=K.iA(40)
+return A.aDt(new Y.bH(C.cN,1,C.C),new T.bU(C.mQ,T.kh(H.a([new U.eM(new L.hY("assets/google_logo.png",x,"firebase_integration"),x,35,x),new T.bU(C.mR,L.bY("Sign in with Google",x,A.jg(x,x,C.cN,x,x,x,x,x,x,x,x,20,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),x)],y.e),C.a9,C.dA,C.cn,x),x),0,new T.aur(),new X.c5(w,C.u),C.cN)},
 avj:function avj(){},
 aur:function aur(){}},U,V,W,X,Y,Z
 a.setFunctionNamesIfNecessary([A,D,T])
@@ -138,13 +138,13 @@ X=c[22]
 Y=c[23]
 Z=c[24]
 D.p2.prototype={
-H(d,e){var x,w,v=null,u=T.aYl(),t=T.aXx(),s=y.a
+H(d,e){var x,w,v=null,u=T.aYj(),t=T.aXv(),s=y.a
 L.c3(e,C.Z,s).toString
 x=y.h
 w=U.fm(L.bY(T.cl("Privacy Policy",v,"privacy_policy",H.a([],x),v),v,v,v,v),new D.ab5(),v)
 L.c3(e,C.Z,s).toString
 s=y.e
-return T.dr(H.a([u,t,T.kg(H.a([w,U.fm(L.bY(T.cl("Terms of Service",v,"terms_of_service",H.a([],x),v),v,v,v,v),new D.ab6(),v)],s),C.a9,C.dA,C.a7,v)],s),C.a9,C.dA,C.a7)}}
+return T.dr(H.a([u,t,T.kh(H.a([w,U.fm(L.bY(T.cl("Terms of Service",v,"terms_of_service",H.a([],x),v),v,v,v,v),new D.ab6(),v)],s),C.a9,C.dA,C.a7,v)],s),C.a9,C.dA,C.a7)}}
 A.zL.prototype={
 H(d,e){var x,w,v,u,t,s,r,q,p,o,n=this,m=M.awa(e)
 m.xQ(n)
@@ -169,7 +169,7 @@ aN(){var x=this,w=null
 x.br()
 x.d=G.bT(w,C.bI,0,w,1,w,x)
 x.e=S.dC(C.no,x.gnQ(),w)
-x.f=S.dC(C.MX,x.gnQ(),C.MU)},
+x.f=S.dC(C.N_,x.gnQ(),C.MX)},
 bw(d){var x=this
 x.bR(d)
 if(x.r)x.a.toString},
@@ -208,7 +208,7 @@ x=this.f
 if(x==null)x=H.i(H.A("_elevationAnimation"))
 return new R.aO(0,w,y.g).aj(0,x.gp(x))},
 H(d,e){var x=K.ae(e)
-return K.kM(this.gnQ(),new A.apY(this,x),null)}}
+return K.kN(this.gnQ(),new A.apY(this,x),null)}}
 A.ju.prototype={
 gf3(){var x=this.b.b
 return new V.aR(x,x,x,x)},
@@ -325,6 +325,6 @@ v(A.ju,Y.bW)
 x(A.EW,U.hz)})()
 H.da(b.typeUniverse,JSON.parse('{"p2":{"an":[],"h":[]},"Dy":{"U":[],"h":[]},"zL":{"an":[],"h":[]},"Dz":{"ad":["Dy"]},"ju":{"bW":[],"b_":["bW"]},"mZ":{"an":[],"h":[]}}'))
 var y={o:H.z("y"),h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg"),g:H.z("aO<a2>")};(function constants(){C.mQ=new V.aR(0,10,0,10)
-C.MU=new Z.fF(1,1,C.aU)
-C.MX=new Z.fF(0.5,0.5,C.aU)})()}
-$__dart_deferred_initializers__["tNKFhyW6TbT4HoXiLntKFpQxnBY="] = $__dart_deferred_initializers__.current
+C.MX=new Z.fF(1,1,C.aU)
+C.N_=new Z.fF(0.5,0.5,C.aU)})()}
+$__dart_deferred_initializers__["FIxBCla2xDU+Olz1Bm9DksfBap8="] = $__dart_deferred_initializers__.current
