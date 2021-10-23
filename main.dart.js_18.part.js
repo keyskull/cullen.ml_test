@@ -1,10 +1,16 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O={
-aEL(d){var y=null
-return new V.S9(d,N.lK(y,y,y),y)}},P,Q,R,S,T,U,V={S9:function S9(d,e,f){this.e=d
-this.c=e
-this.a=f},all:function all(d){this.a=d}},W,X,Y,Z
-a.setFunctionNamesIfNecessary([O,V])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
+aOb(){var x=null
+return new K.nV(U.aEI(x,x,x,x,x,!1,x,x,x,x,C.mS,x,x,x,x,x,x,x,x),N.lL(x,x,x),!0,x)},
+nV:function nV(d,e,f,g){var _=this
+_.f=d
+_.c=e
+_.d=f
+_.a=g},
+a_W:function a_W(){},
+a_X:function a_X(){},
+a_Y:function a_Y(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+a.setFunctionNamesIfNecessary([K])
 A=c[0]
 B=c[1]
 C=c[2]
@@ -14,40 +20,47 @@ F=c[5]
 G=c[6]
 H=c[7]
 J=c[8]
-K=c[9]
+K=a.updateHolder(c[9],K)
 L=c[10]
 M=c[11]
 N=c[12]
-O=a.updateHolder(c[13],O)
+O=c[13]
 P=c[14]
 Q=c[15]
 R=c[16]
 S=c[17]
 T=c[18]
 U=c[19]
-V=a.updateHolder(c[20],V)
+V=c[20]
 W=c[21]
 X=c[22]
 Y=c[23]
 Z=c[24]
-V.S9.prototype={
-H(d,e){var y
-$.avy()
-y=this.e
-$.a_I().ES(y,new V.all(this))
-return new G.rR(y,null)},
-iC(){return!1}}
+K.nV.prototype={
+H(d,e){var x,w,v,u,t=null,s=y.a
+L.c3(e,C.Z,s).toString
+x=y.h
+w=L.bY(T.cl("About",t,"about",H.a([],x),t),t,C.ER,t,t)
+L.c3(e,C.Z,s).toString
+v=L.bY(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ES,t,t)
+u=this.f
+L.c3(e,C.Z,s).toString
+s=y.e
+return new T.bU(C.Ly,T.dr(H.a([w,C.mI,v,T.kg(H.a([U.fm(L.bY(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a_W(),u),U.fm(C.a6H,new K.a_X(),u),U.fm(C.a6A,new K.a_Y(),u)],s),C.a9,C.a6,C.a7,t)],s),C.bu,C.a6,C.a7),t)}}
 var z=a.updateTypes([])
-V.all.prototype={
-$1(d){var y,x=document.createElement("iframe")
-x.width="640"
-x.height="360"
-x.src=this.a.e
-y=x.style
-y.border="none"
-return x},
-$S:476};(function inheritance(){var y=a.inherit
-y(V.S9,N.bF)
-y(V.all,H.bJ)})()
-H.dx(b.typeUniverse,JSON.parse('{"S9":{"bF":[],"U":[],"h":[]}}'))}
-$__dart_deferred_initializers__["jrxyteLpRdGxUxRUrhhNqsP4g+w="] = $__dart_deferred_initializers__.current
+K.a_W.prototype={
+$0(){return D.cz("contact")},
+$S:0}
+K.a_X.prototype={
+$0(){D.cz("disclaimer")},
+$S:0}
+K.a_Y.prototype={
+$0(){D.cz("cookie-policy")},
+$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(K.nV,N.bE)
+w(H.eF,[K.a_W,K.a_X,K.a_Y])})()
+H.da(b.typeUniverse,JSON.parse('{"nV":{"bE":[],"U":[],"h":[]}}'))
+var y={h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg")};(function constants(){C.Ly=new V.aR(10,30,10,30)
+C.a6A=new L.dI("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.a6H=new L.dI("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["GttU6C1nDBREvomjiXCU3wU6BZ4="] = $__dart_deferred_initializers__.current
