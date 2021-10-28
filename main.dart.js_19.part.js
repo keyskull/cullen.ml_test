@@ -1,12 +1,9 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z={
-aP2(){var x=null
-return new Z.oh(N.lL(x,x,x),!0,x)},
-oh:function oh(d,e,f){this.c=d
-this.d=e
-this.a=f},
-a2J:function a2J(){}}
-a.setFunctionNamesIfNecessary([Z])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O={
+aFT(d){return new V.Sv(d,B.kr(null,null),null)}},P,Q,R,S,T,U,V={Sv:function Sv(d,e,f){this.f=d
+this.c=e
+this.a=f},alZ:function alZ(d){this.a=d}},W,X,Y,Z
+a.setFunctionNamesIfNecessary([O,V])
 A=c[0]
 B=c[1]
 C=c[2]
@@ -20,48 +17,35 @@ K=c[9]
 L=c[10]
 M=c[11]
 N=c[12]
-O=c[13]
+O=a.updateHolder(c[13],O)
 P=c[14]
 Q=c[15]
 R=c[16]
 S=c[17]
 T=c[18]
 U=c[19]
-V=c[20]
+V=a.updateHolder(c[20],V)
 W=c[21]
 X=c[22]
 Y=c[23]
-Z=a.updateHolder(c[24],Z)
-Z.oh.prototype={
-H(d,e){var x,w,v,u=null
-L.c3(e,C.Z,y.a).toString
-x=L.bY(T.cl("Contact Me",u,"contact_me",H.a([],y.h),u),u,C.a5S,u,u)
-w=F.aD_(new Z.a2J(),C.ER,"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.al)
-v=$.il.b*0.6
-return new T.bU(C.LC,T.dr(H.a([x,C.mI,w,M.bJ(u,u,C.l,u,u,C.G4,u,v,u,u,u,u,v)],y.e),C.a9,C.a6,C.a7),u)}}
-var z=a.updateTypes(["Y<~>(hl)"])
-Z.a2J.prototype={
-$1(d){return this.SA(d)},
-SA(d){var x=0,w=P.R(y.f),v
-var $async$$1=P.N(function(e,f){if(e===1)return P.O(f,w)
-while(true)switch(x){case 0:v=d.b
-x=5
-return P.a7(T.Ff(v),$async$$1)
-case 5:x=f?2:4
-break
-case 2:x=6
-return P.a7(T.m5(v),$async$$1)
-case 6:x=3
-break
-case 4:throw H.b("Could not launch "+d.j(0))
-case 3:return P.P(null,w)}})
-return P.Q($async$$1,w)},
-$S:z+0};(function inheritance(){var x=a.inherit
-x(Z.oh,N.bE)
-x(Z.a2J,H.bI)})()
-H.da(b.typeUniverse,JSON.parse('{"oh":{"bE":[],"U":[],"h":[]}}'))
-var y={h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg"),f:H.z("~")};(function constants(){C.Lb=new X.jP(C.lL,null,null,C.c4)
-C.G4=new S.c7(null,C.Lb,null,null,null,null,C.M)
-C.LC=new V.aR(10,80,10,30)
-C.a5S=new A.B(!0,null,null,null,null,null,50,C.ej,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["IYtyigQPlvlu3slzL88fZ7+JAP0="] = $__dart_deferred_initializers__.current
+Z=c[24]
+V.Sv.prototype={
+H(d,e){var y
+$.awD()
+y=this.f
+$.a06().EW(y,new V.alZ(this))
+return new G.t8(y,null)}}
+var z=a.updateTypes([])
+V.alZ.prototype={
+$1(d){var y,x=document.createElement("iframe")
+x.width="640"
+x.height="360"
+x.src=this.a.f
+y=x.style
+y.border="none"
+return x},
+$S:504};(function inheritance(){var y=a.inherit
+y(V.Sv,B.bD)
+y(V.alZ,H.bR)})()
+H.dr(b.typeUniverse,JSON.parse('{"Sv":{"bD":[],"T":[],"h":[]}}'))}
+$__dart_deferred_initializers__["/s7AAETW/2UpNf+iw6O39vLUHo4="] = $__dart_deferred_initializers__.current

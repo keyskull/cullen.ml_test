@@ -1,16 +1,10 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aOb(){var x=null
-return new K.nV(U.aEI(x,x,x,x,x,!1,x,x,x,x,C.mS,x,x,x,x,x,x,x,x),N.lL(x,x,x),!0,x)},
-nV:function nV(d,e,f,g){var _=this
-_.f=d
-_.c=e
-_.d=f
-_.a=g},
-a_W:function a_W(){},
-a_X:function a_X(){},
-a_Y:function a_Y(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
-a.setFunctionNamesIfNecessary([K])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z={
+aQ2(){return new Z.oo(B.kr(null,null),null)},
+oo:function oo(d,e){this.c=d
+this.a=e},
+a33:function a33(){}}
+a.setFunctionNamesIfNecessary([Z])
 A=c[0]
 B=c[1]
 C=c[2]
@@ -20,7 +14,7 @@ F=c[5]
 G=c[6]
 H=c[7]
 J=c[8]
-K=a.updateHolder(c[9],K)
+K=c[9]
 L=c[10]
 M=c[11]
 N=c[12]
@@ -35,32 +29,37 @@ V=c[20]
 W=c[21]
 X=c[22]
 Y=c[23]
-Z=c[24]
-K.nV.prototype={
-H(d,e){var x,w,v,u,t=null,s=y.a
-L.c3(e,C.Z,s).toString
-x=y.h
-w=L.bY(T.cl("About",t,"about",H.a([],x),t),t,C.ER,t,t)
-L.c3(e,C.Z,s).toString
-v=L.bY(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ES,t,t)
-u=this.f
-L.c3(e,C.Z,s).toString
-s=y.e
-return new T.bU(C.LB,T.dr(H.a([w,C.mI,v,T.kh(H.a([U.fm(L.bY(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a_W(),u),U.fm(C.a6K,new K.a_X(),u),U.fm(C.a6D,new K.a_Y(),u)],s),C.a9,C.a6,C.a7,t)],s),C.bu,C.a6,C.a7),t)}}
-var z=a.updateTypes([])
-K.a_W.prototype={
-$0(){return D.cz("contact")},
-$S:0}
-K.a_X.prototype={
-$0(){D.cz("disclaimer")},
-$S:0}
-K.a_Y.prototype={
-$0(){D.cz("cookie-policy")},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(K.nV,N.bE)
-w(H.eF,[K.a_W,K.a_X,K.a_Y])})()
-H.da(b.typeUniverse,JSON.parse('{"nV":{"bE":[],"U":[],"h":[]}}'))
-var y={h:H.z("p<v>"),e:H.z("p<h>"),a:H.z("fg")};(function constants(){C.LB=new V.aR(10,30,10,30)
-C.a6D=new L.dI("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.a6K=new L.dI("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["SkpXLdfpg5nr24Ojeqs3VAsKWoY="] = $__dart_deferred_initializers__.current
+Z=a.updateHolder(c[24],Z)
+Z.oo.prototype={
+H(d,e){var x,w,v,u=null
+L.c4(e,C.Z,y.a).toString
+x=L.bP(T.cl("Contact Me",u,"contact_me",H.a([],y.h),u),u,C.a5W,u,u)
+w=F.aDU(new Z.a33(),C.ES,"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.al)
+v=$.ii.b*0.6
+return new T.bU(C.LE,T.cY(H.a([x,C.mL,w,M.bA(u,u,C.l,u,u,C.G4,u,v,u,u,u,u,v)],y.e),C.a7,C.a_,C.a5),u)}}
+var z=a.updateTypes(["W<~>(hn)"])
+Z.a33.prototype={
+$1(d){return this.SM(d)},
+SM(d){var x=0,w=P.R(y.f),v
+var $async$$1=P.M(function(e,f){if(e===1)return P.O(f,w)
+while(true)switch(x){case 0:v=d.b
+x=5
+return P.a5(T.Fr(v),$async$$1)
+case 5:x=f?2:4
+break
+case 2:x=6
+return P.a5(T.m5(v),$async$$1)
+case 6:x=3
+break
+case 4:throw H.b("Could not launch "+d.j(0))
+case 3:return P.P(null,w)}})
+return P.Q($async$$1,w)},
+$S:z+0};(function inheritance(){var x=a.inherit
+x(Z.oo,B.bD)
+x(Z.a33,H.bR)})()
+H.dr(b.typeUniverse,JSON.parse('{"oo":{"bD":[],"T":[],"h":[]}}'))
+var y={h:H.B("p<v>"),e:H.B("p<h>"),a:H.B("fg"),f:H.B("~")};(function constants(){C.Lc=new X.jI(C.lN,null,null,C.c6)
+C.G4=new S.c9(null,C.Lc,null,null,null,null,C.N)
+C.LE=new V.aO(10,80,10,30)
+C.a5W=new A.A(!0,null,null,null,null,null,50,C.ek,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["6GmiLF9Y2YLQTI8DoMtsc1axzuQ="] = $__dart_deferred_initializers__.current
