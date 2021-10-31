@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N={
-aSK(){return new N.pP(F.cx(new Z.cZ("Projects")),B.kr(null,null),null)},
-pP:function pP(d,e,f){this.f=d
+aSO(){return new N.pR(F.cx(new Z.cZ("Projects")),B.kr(null,null),null)},
+pR:function pR(d,e,f){this.f=d
 this.c=e
 this.a=f}},O,P,Q,R,S,T,U,V,W,X,Y,Z
 a.setFunctionNamesIfNecessary([N])
@@ -30,9 +30,9 @@ W=c[21]
 X=c[22]
 Y=c[23]
 Z=c[24]
-N.pP.prototype={
-H(d,e){return X.aEQ()}}
+N.pR.prototype={
+H(d,e){return X.aEW()}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(N.pP,B.bD)})()
-H.dr(b.typeUniverse,JSON.parse('{"pP":{"bD":[],"T":[],"h":[]}}'))}
-$__dart_deferred_initializers__["B43rO4ntEcN4emgD03PrBv/fvq0="] = $__dart_deferred_initializers__.current
+y(N.pR,B.bC)})()
+H.dr(b.typeUniverse,JSON.parse('{"pR":{"bC":[],"T":[],"h":[]}}'))}
+$__dart_deferred_initializers__["QrQrlomXwv+RqP2hLCyHPxSLF54="] = $__dart_deferred_initializers__.current
