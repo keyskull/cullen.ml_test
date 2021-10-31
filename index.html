@@ -74,8 +74,7 @@ position: absolute;top: 50%;left: 50%; transform: translate(-50%, -50%);">
 <!--background-->
 
 <script>
-    const time = Date.now();
-    var serviceWorkerVersion = 1;
+    var serviceWorkerVersion = '2615432986';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -83,7 +82,7 @@ position: absolute;top: 50%;left: 50%; transform: translate(-50%, -50%);">
       }
       scriptLoaded = true;
       var scriptTag = document.createElement('script');
-      scriptTag.src = 'main.dart.js?v=' + time;
+      scriptTag.src = 'main.dart.js';
       scriptTag.type = 'application/javascript';
       document.body.append(scriptTag);
     }

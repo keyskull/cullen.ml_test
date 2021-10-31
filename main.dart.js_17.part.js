@@ -1,13 +1,13 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aPh(){var x=null
-return new K.o_(U.aFJ(x,x,x,x,x,!1,x,x,x,x,C.mW,x,x,x,x,x,x,x,x),B.kr(x,x),x)},
+aPg(){var x=null
+return new K.o_(U.aFI(x,x,x,x,x,!1,x,x,x,x,C.mW,x,x,x,x,x,x,x,x),B.kr(x,x),x)},
 o_:function o_(d,e,f){this.f=d
 this.c=e
 this.a=f},
+a0h:function a0h(){},
 a0i:function a0i(){},
-a0j:function a0j(){},
-a0k:function a0k(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+a0j:function a0j(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
 a.setFunctionNamesIfNecessary([K])
 A=c[0]
 B=c[1]
@@ -44,21 +44,21 @@ v=L.bI(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passi
 u=this.f
 L.c5(e,C.a_,s).toString
 s=y.e
-return new T.bU(C.LD,T.cQ(H.a([w,C.mL,v,T.kf(H.a([U.fn(L.bI(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a0i(),u),U.fn(C.a6O,new K.a0j(),u),U.fn(C.a6H,new K.a0k(),u)],s),C.a5,C.Z,C.a0,t)],s),C.b8,C.Z,C.a0),t)}}
+return new T.bU(C.LD,T.cQ(H.a([w,C.mL,v,T.kf(H.a([U.fn(L.bI(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a0h(),u),U.fn(C.a6O,new K.a0i(),u),U.fn(C.a6H,new K.a0j(),u)],s),C.a5,C.Z,C.a0,t)],s),C.b8,C.Z,C.a0),t)}}
 var z=a.updateTypes([])
-K.a0i.prototype={
+K.a0h.prototype={
 $0(){return D.cM("contact")},
 $S:0}
-K.a0j.prototype={
+K.a0i.prototype={
 $0(){D.cM("disclaimer")},
 $S:0}
-K.a0k.prototype={
+K.a0j.prototype={
 $0(){D.cM("cookie-policy")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(K.o_,B.bC)
-w(H.f4,[K.a0i,K.a0j,K.a0k])})()
+w(H.f4,[K.a0h,K.a0i,K.a0j])})()
 H.dr(b.typeUniverse,JSON.parse('{"o_":{"bC":[],"T":[],"h":[]}}'))
 var y={h:H.B("p<v>"),e:H.B("p<h>"),a:H.B("fh")};(function constants(){C.LD=new V.aM(10,30,10,30)
 C.a6H=new L.dM("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.a6O=new L.dM("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["tIenTqDA+vGcwaprs2NwUy0zdy0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Lp2q7F8xWcSWgSU276brQKVrqYY="] = $__dart_deferred_initializers__.current

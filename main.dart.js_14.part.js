@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X={
-aEW(){return new X.Px(F.cx(new Z.cZ("RecentBlogList")),null)},
-Px:function Px(d,e){this.c=d
+aEV(){return new X.Pw(F.cx(new Z.cZ("RecentBlogList")),null)},
+Pw:function Pw(d,e){this.c=d
 this.a=e},
 aeY:function aeY(d){this.a=d},
 aeZ:function aeZ(){},
@@ -44,17 +44,17 @@ W=c[21]
 X=a.updateHolder(c[22],X)
 Y=c[23]
 Z=c[24]
-X.Px.prototype={
-lQ(d){return this.Tf(d)},
+X.Pw.prototype={
+lP(d){return this.Tf(d)},
 Tf(d){var x=0,w=P.R(y.B),v,u=this
-var $async$lQ=P.M(function(e,f){if(e===1)return P.O(f,w)
+var $async$lP=P.M(function(e,f){if(e===1)return P.O(f,w)
 while(true)switch(x){case 0:v=J.de(new X.aeY(d).$0(),new X.aeZ(),y.w).aB(0,new X.af_(u,d),y.B)
 x=1
 break
 case 1:return P.P(v,w)}})
-return P.Q($async$lQ,w)},
+return P.Q($async$lP,w)},
 H(d,e){var x=y.B
-return B.t5(new X.aeP(this),V.na().aB(0,new X.aeQ(this),x),x)}}
+return B.t6(new X.aeP(this),V.na().aB(0,new X.aeQ(this),x),x)}}
 var z=a.updateTypes(["e(dh)","dh(e)","l(dh,dh)","jA(e)"])
 X.aeY.prototype={
 $0(){var x=0,w=P.R(y.v),v,u=this
@@ -64,7 +64,7 @@ x=1
 break
 case 1:return P.P(v,w)}})
 return P.Q($async$$0,w)},
-$S:173}
+$S:161}
 X.aeZ.prototype={
 $1(d){return this.SW(d)},
 SW(d){var x=0,w=P.R(y.w),v
@@ -72,7 +72,7 @@ var $async$$1=P.M(function(e,f){if(e===1)return P.O(f,w)
 while(true)switch(x){case 0:x=d==null?3:5
 break
 case 3:x=6
-return P.a5(G.a_D(P.fq("https://article.cullen.ml/metadata.json",0,null)).aB(0,new X.aeX(),y.w),$async$$1)
+return P.a5(G.a_C(P.fq("https://article.cullen.ml/metadata.json",0,null)).aB(0,new X.aeX(),y.w),$async$$1)
 case 6:x=4
 break
 case 5:f=d
@@ -81,10 +81,10 @@ x=1
 break
 case 1:return P.P(v,w)}})
 return P.Q($async$$1,w)},
-$S:152}
+$S:162}
 X.aeX.prototype={
 $1(d){return B.Fu(U.Fl(d.e).c.a.h(0,"charset")).cE(0,d.x)},
-$S:138}
+$S:163}
 X.af_.prototype={
 $1(d){var x,w,v,u,t,s,r="StringList",q="projects",p=this.b
 p.hn("String","metadata.json",d)
@@ -92,7 +92,7 @@ x=J.ar(C.ao.my(0,d,null),"files")
 w=J.dB(x)
 this.a.c.a4(C.w,"files = "+w.j(x),null,null)
 V.na().aB(0,new X.aeR(x),y.F)
-v=J.a0h(w.gap(x),new X.aeS(x)).f8(0,new X.aeT(x),y.c).d0(0)
+v=J.a0g(w.gap(x),new X.aeS(x)).f8(0,new X.aeT(x),y.c).d0(0)
 C.c.cU(v,new X.aeU())
 w=H.a4(v).i("ai<1,e>")
 u=P.at(new H.ai(v,new X.aeV(),w),!0,w.i("az.E"))
@@ -108,7 +108,7 @@ X.aeR.prototype={
 $1(d){var x,w,v,u
 for(x=this.a,w=J.k(x),v=J.aJ(w.gap(x));v.q();){u=v.gC(v)
 d.hn("String",u,C.ao.rk(w.h(x,u),null))}},
-$S:135}
+$S:164}
 X.aeS.prototype={
 $1(d){return C.b.u(H.cO(J.ar(J.ar(this.a,d),"path")),"publish/projects")},
 $S:12}
@@ -133,7 +133,7 @@ while(true)switch(x){case 0:t=d.tH("recent_projects")
 x=t==null?3:5
 break
 case 3:x=6
-return P.a5(u.a.lQ(d),$async$$1)
+return P.a5(u.a.lP(d),$async$$1)
 case 6:x=4
 break
 case 5:f=t
@@ -142,7 +142,7 @@ x=1
 break
 case 1:return P.P(v,w)}})
 return P.Q($async$$1,w)},
-$S:132}
+$S:165}
 X.aeP.prototype={
 $2(d,e){var x,w,v,u=null
 if(e.a===C.bG){x=e.c
@@ -152,18 +152,18 @@ return new V.hM(w.j(x),u)}else{v=e.gn9()
 x=J.dB(v)
 this.a.c.a4(C.w,C.b.N("data = ",x.j(v)),u,u)
 return T.cQ(x.f8(v,new X.aeO(),y.k).d0(0),C.a5,C.Z,C.a0)}}else return C.d9},
-$S:130}
+$S:166}
 X.aeO.prototype={
-$1(d){var x=E.aDd(C.ao.my(0,d,null)),w=U.a9b("images/4ddce98e9381ffa68cf9967919669e4.png",null,5,null)
-return L.aCu("Cullen Lee",new X.aeN(x),P.aD7(x.c*1000).j(0),w,x.b)},
+$1(d){var x=E.aDc(C.ao.my(0,d,null)),w=U.a9a("images/4ddce98e9381ffa68cf9967919669e4.png",null,5,null)
+return L.aCt("Cullen Lee",new X.aeN(x),P.aD6(x.c*1000).j(0),w,x.b)},
 $S:z+3}
 X.aeN.prototype={
 $0(){D.cM("projects/"+this.a.b)},
 $S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(X.Px,N.au)
+x(X.Pw,N.au)
 w(H.f4,[X.aeY,X.aeN])
 w(H.bR,[X.aeZ,X.aeX,X.af_,X.aeR,X.aeS,X.aeT,X.aeV,X.aeW,X.aeQ,X.aeO])
 w(H.h9,[X.aeU,X.aeP])})()
-H.dr(b.typeUniverse,JSON.parse('{"Px":{"au":[],"h":[]}}'))
+H.dr(b.typeUniverse,JSON.parse('{"Pw":{"au":[],"h":[]}}'))
 var y={k:H.B("jA"),c:H.B("dh"),x:H.B("p<e>"),B:H.B("r<e>"),F:H.B("ad"),w:H.B("e"),v:H.B("e?")}}
-$__dart_deferred_initializers__["xB/am1kHRZd05CfIkyMyReUsquE="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["qMYjjowdzZt8XctAWQ9dJ9XYrTE="] = $__dart_deferred_initializers__.current
