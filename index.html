@@ -74,7 +74,7 @@ position: absolute;top: 50%;left: 50%; transform: translate(-50%, -50%);">
 <!--background-->
 
 <script>
-    var serviceWorkerVersion = '2615432986';
+    var serviceWorkerVersion = '249128758';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -82,7 +82,7 @@ position: absolute;top: 50%;left: 50%; transform: translate(-50%, -50%);">
       }
       scriptLoaded = true;
       var scriptTag = document.createElement('script');
-      scriptTag.src = 'main.dart.js';
+      scriptTag.src = 'main.dart.js?v='+serviceWorkerVersion;
       scriptTag.type = 'application/javascript';
       document.body.append(scriptTag);
     }
@@ -136,7 +136,6 @@ position: absolute;top: 50%;left: 50%; transform: translate(-50%, -50%);">
       // Service workers not supported. Just drop the <script> tag.
       loadMainDartJs();
     }
-
 
 
 </script>
