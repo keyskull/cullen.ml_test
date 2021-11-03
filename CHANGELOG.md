@@ -7,8 +7,8 @@
 - Optimized WindowLayer's classes invoked.
 - (MultiLayer Framework) Changed overlayEntryBuilder return to List<OverlayEntry>.
 - Fixed Home and Blog pages' resizing problems.
-- Implmented Layer Management.
-- Added Notication Layer.
+- Implemented Layer Management.
+- Added Notification Layer.
 - Added consistent notification list.
 
 ## [0.1.5]
