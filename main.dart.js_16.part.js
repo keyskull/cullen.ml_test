@@ -1,46 +1,12 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-ay1(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){return new B.pg(a1,a0,x,w,a6,a5,l,h,j,a4,n,s,q,m,t,o,r,k,i,f,a2,a7,a3,g,p,!1,d,v,u)},
-pg:function pg(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.r=h
-_.x=i
-_.y=j
-_.z=k
-_.Q=l
-_.ch=m
-_.cx=n
-_.cy=o
-_.db=p
-_.dx=q
-_.dy=r
-_.fr=s
-_.fx=t
-_.fy=u
-_.go=v
-_.id=w
-_.k1=x
-_.k2=a0
-_.k3=a1
-_.k4=a2
-_.r1=a3
-_.r2=a4
-_.rx=a5
-_.ry=a6
-_.a=a7}},C,D,E,F,G,H,J,K,L,M={
-ax_(d){var x,w,v,u
-d.a_(y.b)
-x=K.ac(d)
-w=x.id
-if(w.cy==null){v=w.geb(w)
-u=w.gjx(w)
-w=M.aCw(!1,w.x,x.B,w.y,w.z,w.b,w.ch,w.Q,w.d,w.db,w.a,v,u,w.cx,w.c)}return w}},N,O,P,Q,R,S,T,U,V,W,X,Y,Z
-a.setFunctionNamesIfNecessary([B,M])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z={
+b1T(){return new Z.qi(B.lI(null,null),null)},
+qi:function qi(d,e){this.c=d
+this.a=e},
+a9Z:function a9Z(){}}
+a.setFunctionNamesIfNecessary([Z])
 A=c[0]
-B=a.updateHolder(c[1],B)
+B=c[1]
 C=c[2]
 D=c[3]
 E=c[4]
@@ -50,7 +16,7 @@ H=c[7]
 J=c[8]
 K=c[9]
 L=c[10]
-M=a.updateHolder(c[11],M)
+M=c[11]
 N=c[12]
 O=c[13]
 P=c[14]
@@ -63,37 +29,37 @@ V=c[20]
 W=c[21]
 X=c[22]
 Y=c[23]
-Z=c[24]
-B.pg.prototype={
-gft(d){return!0},
-G(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=this,i=K.ac(e),h=M.ax_(e),g=h.xX(j),f=i.U.ch
-f.toString
-f=f.cu(h.lS(j))
-x=j.cx
-if(x==null)x=h.xY(j)
-w=j.cy
-if(w==null)w=h.y_(j)
-v=j.db
-if(v==null)v=i.dx
-u=j.ch
-if(u==null)u=i.dy
-t=h.FC(j)
-s=h.FD(j)
-r=h.FH(j)
-q=h.xZ(j)
-p=h.y5(j)
-o=j.k2
-if(o==null)o=i.a
-n=new S.aw(h.a,1/0,h.b,1/0).OG(null,null)
-m=j.k3
-if(m==null)m=h.gjx(h)
-l=j.rx
-if(l==null)l=C.a6
-k=j.fy
-if(k==null)k=0
-return Z.PC(l,!1,j.id,j.k4,n,k,t,!0,g,x,s,j.r1,v,q,w,r,i.bs,j.f,j.e,j.d,j.c,p,m,u,f,o)}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
-x(B.pg,N.ar)})()
-H.dr(b.typeUniverse,JSON.parse('{"pg":{"ar":[],"h":[]},"aPz":{"bh":[],"b2":[],"h":[]}}'))
-var y={b:H.C("aPz")}}
-$__dart_deferred_initializers__["IU9P+6RZruggyS0OU3w5ForKDRM="] = $__dart_deferred_initializers__.current
+Z=a.updateHolder(c[24],Z)
+Z.qi.prototype={
+M(d,e){var x,w,v,u=null
+L.cq(e,C.aa,y.a).toString
+x=L.bu(T.cU("Contact Me",u,"contact_me",H.a([],y.h),u),u,u,C.aew,u,u,u)
+w=F.aPv(new Z.a9Z(),C.Ic,"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.am)
+v=$.iA.b*0.6
+return new T.bE(C.PO,T.ci(H.a([x,C.pp,w,M.b6(u,u,C.k,u,u,C.Js,u,v,u,u,u,u,u,v)],y.e),C.Q,C.F,C.J),u)}}
+var z=a.updateTypes(["a1<~>(ik)"])
+Z.a9Z.prototype={
+$1(d){return this.ZQ(d)},
+ZQ(d){var x=0,w=P.Q(y.f),v
+var $async$$1=P.K(function(e,f){if(e===1)return P.N(f,w)
+while(true)switch(x){case 0:v=d.b
+x=5
+return P.W(T.Jo(v),$async$$1)
+case 5:x=f?2:4
+break
+case 2:x=6
+return P.W(T.nC(v),$async$$1)
+case 6:x=3
+break
+case 4:throw H.d("Could not launch "+d.j(0))
+case 3:return P.O(null,w)}})
+return P.P($async$$1,w)},
+$S:z+0};(function inheritance(){var x=a.inherit
+x(Z.qi,B.cu)
+x(Z.a9Z,H.bN)})()
+H.ev(b.typeUniverse,JSON.parse('{"qi":{"cu":[],"T":[],"k":[]}}'))
+var y={h:H.G("m<z>"),e:H.G("m<k>"),a:H.G("hi"),f:H.G("~")};(function constants(){C.Pl=new X.kV(C.om,null,null,C.cB)
+C.Js=new S.co(null,C.Pl,null,null,null,null,C.T)
+C.PO=new V.as(10,80,10,30)
+C.aew=new A.y(!0,null,null,null,null,null,50,C.fI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["G6VaWnnXNAgb2fzB8Ag7/q6BYMM="] = $__dart_deferred_initializers__.current
