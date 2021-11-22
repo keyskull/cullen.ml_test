@@ -1,44 +1,17 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-QW(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){return new B.rl(a1,a0,x,w,a6,a5,l,h,j,a4,n,s,q,m,t,o,r,k,i,f,a2,a7,a3,g,p,!1,d,v,u)},
-rl:function rl(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.r=h
-_.x=i
-_.y=j
-_.z=k
-_.Q=l
-_.ch=m
-_.cx=n
-_.cy=o
-_.db=p
-_.dx=q
-_.dy=r
-_.fr=s
-_.fx=t
-_.fy=u
-_.go=v
-_.id=w
-_.k1=x
-_.k2=a0
-_.k3=a1
-_.k4=a2
-_.r1=a3
-_.r2=a4
-_.rx=a5
-_.ry=a6
-_.a=a7}},C,D,E,F,G,H,J,K,L,M={
-aI9(d){var x,w,v,u
-d.ac(y.b)
-x=K.ai(d)
-w=x.id
-if(w.cy==null){v=w.gfu(w)
-u=w.gkT(w)
-w=M.aO3(!1,w.x,x.E,w.y,w.z,w.b,w.ch,w.Q,w.d,w.db,w.a,v,u,w.cx,w.c)}return w}},N,O,P,Q,R,S,T,U,V,W,X,Y,Z
-a.setFunctionNamesIfNecessary([B,M])
+b3c(){return new B.qw(F.cL(new Z.d_("CustomWalletConnect")),B.lQ(null,null),null)},
+qw:function qw(d,e,f){this.f=d
+this.c=e
+this.a=f},
+aaW:function aaW(){},
+aaX:function aaX(){},
+aaY:function aaY(){}},C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y={
+bdl(d,e,f){return new Y.aGL(e,d,f)},
+aGL:function aGL(d,e,f){this.a=d
+this.b=e
+this.c=f}},Z
+a.setFunctionNamesIfNecessary([B,Y])
 A=c[0]
 B=a.updateHolder(c[1],B)
 C=c[2]
@@ -50,7 +23,7 @@ H=c[7]
 J=c[8]
 K=c[9]
 L=c[10]
-M=a.updateHolder(c[11],M)
+M=c[11]
 N=c[12]
 O=c[13]
 P=c[14]
@@ -62,38 +35,47 @@ U=c[19]
 V=c[20]
 W=c[21]
 X=c[22]
-Y=c[23]
+Y=a.updateHolder(c[23],Y)
 Z=c[24]
-B.rl.prototype={
-gi6(d){return!0},
-M(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=this,i=K.ai(e),h=M.aI9(e),g=h.CB(j),f=i.F.ch
-f.toString
-f=f.cY(h.ol(j))
-x=j.cx
-if(x==null)x=h.CC(j)
-w=j.cy
-if(w==null)w=h.CE(j)
-v=j.db
-if(v==null)v=i.dx
-u=j.ch
-if(u==null)u=i.dy
-t=h.Ld(j)
-s=h.Le(j)
-r=h.Li(j)
-q=h.CD(j)
-p=h.CI(j)
-o=j.k2
-if(o==null)o=i.a
-n=new S.aw(h.a,1/0,h.b,1/0).Vh(null,null)
-m=j.k3
-if(m==null)m=h.gkT(h)
-l=j.rx
-if(l==null)l=C.ae
-k=j.fy
-if(k==null)k=0
-return Z.UC(l,!1,j.id,j.k4,n,k,t,!0,g,x,s,j.r1,v,q,w,r,i.aS,j.f,j.e,j.d,j.c,p,m,u,f,o)}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
-x(B.rl,N.aC)})()
-H.ev(b.typeUniverse,JSON.parse('{"rl":{"aC":[],"k":[]},"b1v":{"bz":[],"bj":[],"k":[]}}'))
-var y={b:H.G("b1v")}}
-$__dart_deferred_initializers__["pWmEBvB9oEjF91pLRBRUUi3XgzY="] = $__dart_deferred_initializers__.current
+B.qw.prototype={
+N(d,e){var x,w,v,u=null,t=$.K1(),s=t.gIk(t)?B.CA(u,!1,L.bq("Disconnect your wallet",u,u,u,u,u,u),C.k,C.mQ,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,new B.aaW(),u,u,u,u,u,u):B.CA(u,!1,L.bq("Connect to Wallet",u,u,u,u,u,u),C.k,C.mR,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,new B.aaX(),u,u,u,u,u,u),r=t.f,q=y.e
+r=T.xQ(C.H,H.a([new T.ea(C.kY,u,u,new T.bF(new V.as(5,5,5,5),s,u),u),new T.ea(C.dM,u,u,L.bq("Address: "+(r==null?"Unconnected to a Cryptos Wallet":r),u,u,K.ah(e).E.c.cZ(C.a8z),u,u,u),u)],q),C.nX,C.l,C.H,0,0)
+s=L.bq("Welcome to Cullen's Cryptos Tech",u,u,K.ah(e).E.b,u,u,u)
+x=Z.aPC()
+w=L.bq("Balance",u,u,K.ah(e).E.d,u,u,u)
+v=t.r
+t=v==null?u:v.a_u(t.x.a)
+v=y.f
+return new T.bF(new V.as(15,15,15,15),T.cg(H.a([r,s,x,w,B.od(Y.bdl(new B.aaY(),this.f,v),t,v)],q),C.aO,C.F,C.I),u)}}
+var z=a.updateTypes([])
+Y.aGL.prototype={
+$2(d,e){var x,w
+if(e.a!==C.bE)return C.dp
+else{x=e.c
+if(x!=null){w=J.d4(x)
+this.a.ao(C.cU,w.j(x),null,null)
+return new V.hS(w.j(x),null)}else return this.b.$2(d,e)}},
+$S(){return this.c.i("k(ag,cq<0>)")}}
+B.aaW.prototype={
+$0(){$.K1().B5(0)},
+$S:0}
+B.aaX.prototype={
+$0(){var x=$.K1()
+if(x.gIk(x))D.cJ("cryptos")
+else x.nR()},
+$S:0}
+B.aaY.prototype={
+$2(d,e){var x,w=null,v=e.b
+if(v==null)v=w
+else{v=v.a
+x=$.aMR().h(0,C.pM)
+x.toString
+x=v.j2(0,x)
+v=x}return L.bq("Eth: "+J.c7(v==null?0:v),w,w,w,w,w,w)},
+$S:548};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(H.h4,[Y.aGL,B.aaY])
+w(B.qw,B.cw)
+x(H.fi,[B.aaW,B.aaX])})()
+H.eQ(b.typeUniverse,JSON.parse('{"qw":{"cw":[],"U":[],"k":[]}}'))
+var y={f:H.F("l5"),e:H.F("m<k>")}}
+$__dart_deferred_initializers__["OW1uYtVhL0yymecWl7samw9fQxw="] = $__dart_deferred_initializers__.current
