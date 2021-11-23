@@ -1,16 +1,46 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-b2h(){var x=null
-return new K.q2(U.aSh(x,x,x,x,x,!1,x,x,x,x,C.fE,x,x,x,x,x,x,x,x),B.lQ(x,x),x)},
-q2:function q2(d,e,f){this.f=d
-this.c=e
-this.a=f},
-a72:function a72(){},
-a73:function a73(){},
-a74:function a74(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
-a.setFunctionNamesIfNecessary([K])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+aiG(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){return new B.qY(a1,a0,x,w,a6,a5,l,h,j,a4,n,s,q,m,t,o,r,k,i,f,a2,a7,a3,g,p,!1,d,v,u)},
+qY:function qY(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.r=h
+_.x=i
+_.y=j
+_.z=k
+_.Q=l
+_.ch=m
+_.cx=n
+_.cy=o
+_.db=p
+_.dx=q
+_.dy=r
+_.fr=s
+_.fx=t
+_.fy=u
+_.go=v
+_.id=w
+_.k1=x
+_.k2=a0
+_.k3=a1
+_.k4=a2
+_.r1=a3
+_.r2=a4
+_.rx=a5
+_.ry=a6
+_.a=a7}},C,D,E,F,G,H,J,K,L,M={
+aG3(d){var x,w,v,u
+d.ac(y.b)
+x=K.ag(d)
+w=x.id
+if(w.cy==null){v=w.gff(w)
+u=w.gko(w)
+w=M.aLS(!1,w.x,x.F,w.y,w.z,w.b,w.ch,w.Q,w.d,w.db,w.a,v,u,w.cx,w.c)}return w}},N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+a.setFunctionNamesIfNecessary([B,M])
 A=c[0]
-B=c[1]
+B=a.updateHolder(c[1],B)
 C=c[2]
 D=c[3]
 E=c[4]
@@ -18,9 +48,9 @@ F=c[5]
 G=c[6]
 H=c[7]
 J=c[8]
-K=a.updateHolder(c[9],K)
+K=c[9]
 L=c[10]
-M=c[11]
+M=a.updateHolder(c[11],M)
 N=c[12]
 O=c[13]
 P=c[14]
@@ -34,31 +64,36 @@ W=c[21]
 X=c[22]
 Y=c[23]
 Z=c[24]
-K.q2.prototype={
-N(d,e){var x,w,v,u,t=null,s=y.a
-L.cs(e,C.ab,s).toString
-x=y.h
-w=L.bq(T.cV("About",t,"about",H.a([],x),t),t,t,C.Ih,t,t,t)
-L.cs(e,C.ab,s).toString
-v=L.bq(T.cV("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,t,C.Ii,t,t,t)
-u=this.f
-L.cs(e,C.ab,s).toString
-s=y.e
-return new T.bF(C.PS,T.cg(H.a([w,C.pt,v,T.fc(H.a([U.fO(L.bq(T.cV("Contact Me",t,"contact_me",H.a([],x),t),t,t,t,C.az,t,t),new K.a72(),u),U.fO(C.afG,new K.a73(),u),U.fO(C.afy,new K.a74(),u)],s),C.P,C.F,C.I,t)],s),C.aO,C.F,C.I),t)}}
-var z=a.updateTypes([])
-K.a72.prototype={
-$0(){return D.cJ("contact")},
-$S:0}
-K.a73.prototype={
-$0(){D.cJ("disclaimer")},
-$S:0}
-K.a74.prototype={
-$0(){D.cJ("cookie-policy")},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(K.q2,B.cw)
-w(H.fi,[K.a72,K.a73,K.a74])})()
-H.eQ(b.typeUniverse,JSON.parse('{"q2":{"cw":[],"U":[],"k":[]}}'))
-var y={h:H.F("m<z>"),e:H.F("m<k>"),a:H.F("hl")};(function constants(){C.PS=new V.as(10,30,10,30)
-C.afy=new L.db("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.afG=new L.db("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["XPlC58xi2eYykdpEPU7wAUbvuKE="] = $__dart_deferred_initializers__.current
+B.qY.prototype={
+ghP(d){return!0},
+O(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=this,i=K.ag(e),h=M.aG3(e),g=h.Bv(j),f=i.D.ch
+f.toString
+f=f.cM(h.nN(j))
+x=j.cx
+if(x==null)x=h.Bw(j)
+w=j.cy
+if(w==null)w=h.By(j)
+v=j.db
+if(v==null)v=i.dx
+u=j.ch
+if(u==null)u=i.dy
+t=h.K0(j)
+s=h.K1(j)
+r=h.K5(j)
+q=h.Bx(j)
+p=h.BC(j)
+o=j.k2
+if(o==null)o=i.a
+n=new S.az(h.a,1/0,h.b,1/0).TV(null,null)
+m=j.k3
+if(m==null)m=h.gko(h)
+l=j.rx
+if(l==null)l=C.aa
+k=j.fy
+if(k==null)k=0
+return Z.Tt(l,!1,j.id,j.k4,n,k,t,!0,g,x,s,j.r1,v,q,w,r,i.aR,j.f,j.e,j.d,j.c,p,m,u,f,o)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(B.qY,N.aC)})()
+H.eb(b.typeUniverse,JSON.parse('{"qY":{"aC":[],"k":[]},"aZT":{"bz":[],"bh":[],"k":[]}}'))
+var y={b:H.F("aZT")}}
+$__dart_deferred_initializers__["5wb47cSJyp5HScwtoaU6hxbu/Xo="] = $__dart_deferred_initializers__.current

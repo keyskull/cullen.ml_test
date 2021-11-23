@@ -1,12 +1,18 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z={
-b3b(){return new Z.qu(B.lQ(null,null),null)},
-qu:function qu(d,e){this.c=d
-this.a=e},
-aaq:function aaq(){}}
-a.setFunctionNamesIfNecessary([Z])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+b_g(){return new B.q0(F.cK(new Z.d0("CustomWalletConnect")),B.lr(null,null),null)},
+q0:function q0(d,e,f){this.f=d
+this.c=e
+this.a=f},
+a9d:function a9d(){},
+a9e:function a9e(){}},C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y={
+b8X(d,e,f){return new Y.aDY(e,d,f)},
+aDY:function aDY(d,e,f){this.a=d
+this.b=e
+this.c=f}},Z
+a.setFunctionNamesIfNecessary([B,Y])
 A=c[0]
-B=c[1]
+B=a.updateHolder(c[1],B)
 C=c[2]
 D=c[3]
 E=c[4]
@@ -28,38 +34,42 @@ U=c[19]
 V=c[20]
 W=c[21]
 X=c[22]
-Y=c[23]
-Z=a.updateHolder(c[24],Z)
-Z.qu.prototype={
-N(d,e){var x,w,v,u=null
-L.cs(e,C.ab,y.a).toString
-x=L.bq(T.cV("Contact Me",u,"contact_me",H.a([],y.h),u),u,u,C.aeI,u,u,u)
-w=F.aQw(new Z.aaq(),C.Ih,"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.am)
-v=$.iE.b*0.6
-return new T.bF(C.PT,T.cg(H.a([x,C.pt,w,M.b6(u,u,C.k,u,u,C.Jx,u,v,u,u,u,u,u,v)],y.e),C.P,C.F,C.I),u)}}
-var z=a.updateTypes(["a2<~>(ip)"])
-Z.aaq.prototype={
-$1(d){return this.a_h(d)},
-a_h(d){var x=0,w=P.P(y.f),v
-var $async$$1=P.L(function(e,f){if(e===1)return P.M(f,w)
-while(true)switch(x){case 0:v=d.b
-x=5
-return P.W(T.JG(v),$async$$1)
-case 5:x=f?2:4
-break
-case 2:x=6
-return P.W(T.m8(v),$async$$1)
-case 6:x=3
-break
-case 4:throw H.d("Could not launch "+d.j(0))
-case 3:return P.N(null,w)}})
-return P.O($async$$1,w)},
-$S:z+0};(function inheritance(){var x=a.inherit
-x(Z.qu,B.cw)
-x(Z.aaq,H.bO)})()
-H.eQ(b.typeUniverse,JSON.parse('{"qu":{"cw":[],"U":[],"k":[]}}'))
-var y={h:H.F("m<z>"),e:H.F("m<k>"),a:H.F("hl"),f:H.F("~")};(function constants(){C.Pq=new X.l0(C.op,null,null,C.cB)
-C.Jx=new S.cp(null,C.Pq,null,null,null,null,C.U)
-C.PT=new V.as(10,80,10,30)
-C.aeI=new A.y(!0,null,null,null,null,null,50,C.fI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["7j2DIbgHvfYddNJWsHoUmNNZs0g="] = $__dart_deferred_initializers__.current
+Y=a.updateHolder(c[23],Y)
+Z=c[24]
+B.q0.prototype={
+aU(){this.a1R()},
+O(d,e){var x,w,v,u,t=null,s=$.a5q(),r=s.b!=null,q=r?C.Br:C.ml
+q=B.aiG(t,!1,L.bu(r?"Disconnect your wallet":"Connect to Wallet",t,t,t,t,t,t),C.k,q,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new B.a9d(),t,t,t,t,t,t)
+x=s.d
+r=y.e
+x=T.ES(C.H,H.a([new T.ee(C.nN,t,t,new T.bL(new V.at(5,5,5,5),q,t),t),new T.ee(C.dE,t,t,L.bu("Address: "+(x==null?"Unconnected to a Cryptos Wallet":x),t,t,K.ag(e).D.c.cM(C.a4A),t,t,t),t)],r),C.np,C.n,C.H,0,0)
+q=L.bu("Welcome to Cullen's Cryptos Tech",t,t,K.ag(e).D.b,t,t,t)
+w=Z.aMp()
+v=L.bu("Balance",t,t,K.ag(e).D.d,t,t,t)
+s=s.wl()
+u=y.c
+return new T.bL(new V.at(15,15,15,15),T.ci(H.a([x,q,w,v,B.nL(Y.b8X(new B.a9e(),this.f,u),s,u)],r),C.aL,C.G,C.J),t)}}
+var z=a.updateTypes([])
+Y.aDY.prototype={
+$2(d,e){var x,w
+if(e.a!==C.bv)return C.de
+else{x=e.c
+if(x!=null){w=J.cX(x)
+this.a.aB(C.cL,w.j(x),null,null)
+return new V.hx(w.j(x),null)}else return this.b.$2(d,e)}},
+$S(){return this.c.i("k(aa,cl<0>)")}}
+B.a9d.prototype={
+$0(){var x=$.a5q()
+if(x.b!=null)x.zN(0)
+else x.qK(0)},
+$S:0}
+B.a9e.prototype={
+$2(d,e){var x=null,w=e.b
+return L.bu("Eth: "+J.bE(w==null?0:w),x,x,x,x,x,x)},
+$S:525};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(H.fQ,[Y.aDY,B.a9e])
+w(B.q0,B.cj)
+w(B.a9d,H.f2)})()
+H.eb(b.typeUniverse,JSON.parse('{"q0":{"cj":[],"M":[],"k":[]}}'))
+var y={c:H.F("nr"),e:H.F("p<k>")}}
+$__dart_deferred_initializers__["bhaxYv7Z4ZvjKvCafCHxhMiyJvY="] = $__dart_deferred_initializers__.current
