@@ -1,16 +1,44 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-b_g(){return new B.q0(F.cK(new Z.d0("CustomWalletConnect")),B.lr(null,null),null)},
-q0:function q0(d,e,f){this.f=d
-this.c=e
-this.a=f},
-a9d:function a9d(){},
-a9e:function a9e(){}},C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y={
-b8X(d,e,f){return new Y.aDY(e,d,f)},
-aDY:function aDY(d,e,f){this.a=d
-this.b=e
-this.c=f}},Z
-a.setFunctionNamesIfNecessary([B,Y])
+ajc(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){return new B.r2(a1,a0,x,w,a6,a5,l,h,j,a4,n,s,q,m,t,o,r,k,i,f,a2,a7,a3,g,p,!1,d,v,u)},
+r2:function r2(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5,a6,a7){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.r=h
+_.x=i
+_.y=j
+_.z=k
+_.Q=l
+_.ch=m
+_.cx=n
+_.cy=o
+_.db=p
+_.dx=q
+_.dy=r
+_.fr=s
+_.fx=t
+_.fy=u
+_.go=v
+_.id=w
+_.k1=x
+_.k2=a0
+_.k3=a1
+_.k4=a2
+_.r1=a3
+_.r2=a4
+_.rx=a5
+_.ry=a6
+_.a=a7}},C,D,E,F,G,H,J,K,L,M={
+aGF(d){var x,w,v,u
+d.ac(y.b)
+x=K.ag(d)
+w=x.id
+if(w.cy==null){v=w.gff(w)
+u=w.gkr(w)
+w=M.aMy(!1,w.x,x.F,w.y,w.z,w.b,w.ch,w.Q,w.d,w.db,w.a,v,u,w.cx,w.c)}return w}},N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+a.setFunctionNamesIfNecessary([B,M])
 A=c[0]
 B=a.updateHolder(c[1],B)
 C=c[2]
@@ -22,7 +50,7 @@ H=c[7]
 J=c[8]
 K=c[9]
 L=c[10]
-M=c[11]
+M=a.updateHolder(c[11],M)
 N=c[12]
 O=c[13]
 P=c[14]
@@ -34,42 +62,38 @@ U=c[19]
 V=c[20]
 W=c[21]
 X=c[22]
-Y=a.updateHolder(c[23],Y)
+Y=c[23]
 Z=c[24]
-B.q0.prototype={
-aU(){this.a1R()},
-O(d,e){var x,w,v,u,t=null,s=$.a5q(),r=s.b!=null,q=r?C.Br:C.ml
-q=B.aiG(t,!1,L.bu(r?"Disconnect your wallet":"Connect to Wallet",t,t,t,t,t,t),C.k,q,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new B.a9d(),t,t,t,t,t,t)
-x=s.d
-r=y.e
-x=T.ES(C.H,H.a([new T.ee(C.nN,t,t,new T.bL(new V.at(5,5,5,5),q,t),t),new T.ee(C.dE,t,t,L.bu("Address: "+(x==null?"Unconnected to a Cryptos Wallet":x),t,t,K.ag(e).D.c.cM(C.a4A),t,t,t),t)],r),C.np,C.n,C.H,0,0)
-q=L.bu("Welcome to Cullen's Cryptos Tech",t,t,K.ag(e).D.b,t,t,t)
-w=Z.aMp()
-v=L.bu("Balance",t,t,K.ag(e).D.d,t,t,t)
-s=s.wl()
-u=y.c
-return new T.bL(new V.at(15,15,15,15),T.ci(H.a([x,q,w,v,B.nL(Y.b8X(new B.a9e(),this.f,u),s,u)],r),C.aL,C.G,C.J),t)}}
-var z=a.updateTypes([])
-Y.aDY.prototype={
-$2(d,e){var x,w
-if(e.a!==C.bv)return C.de
-else{x=e.c
-if(x!=null){w=J.cX(x)
-this.a.aB(C.cL,w.j(x),null,null)
-return new V.hx(w.j(x),null)}else return this.b.$2(d,e)}},
-$S(){return this.c.i("k(aa,cl<0>)")}}
-B.a9d.prototype={
-$0(){var x=$.a5q()
-if(x.b!=null)x.zN(0)
-else x.qK(0)},
-$S:0}
-B.a9e.prototype={
-$2(d,e){var x=null,w=e.b
-return L.bu("Eth: "+J.bE(w==null?0:w),x,x,x,x,x,x)},
-$S:525};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(H.fQ,[Y.aDY,B.a9e])
-w(B.q0,B.cj)
-w(B.a9d,H.f2)})()
-H.eb(b.typeUniverse,JSON.parse('{"q0":{"cj":[],"M":[],"k":[]}}'))
-var y={c:H.F("nr"),e:H.F("p<k>")}}
-$__dart_deferred_initializers__["bhaxYv7Z4ZvjKvCafCHxhMiyJvY="] = $__dart_deferred_initializers__.current
+B.r2.prototype={
+ghR(d){return!0},
+O(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=this,i=K.ag(e),h=M.aGF(e),g=h.BA(j),f=i.D.ch
+f.toString
+f=f.cM(h.nP(j))
+x=j.cx
+if(x==null)x=h.BB(j)
+w=j.cy
+if(w==null)w=h.BD(j)
+v=j.db
+if(v==null)v=i.dx
+u=j.ch
+if(u==null)u=i.dy
+t=h.K7(j)
+s=h.K8(j)
+r=h.Kc(j)
+q=h.BC(j)
+p=h.BH(j)
+o=j.k2
+if(o==null)o=i.a
+n=new S.az(h.a,1/0,h.b,1/0).U1(null,null)
+m=j.k3
+if(m==null)m=h.gkr(h)
+l=j.rx
+if(l==null)l=C.aa
+k=j.fy
+if(k==null)k=0
+return Z.TF(l,!1,j.id,j.k4,n,k,t,!0,g,x,s,j.r1,v,q,w,r,i.aR,j.f,j.e,j.d,j.c,p,m,u,f,o)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(B.r2,N.aC)})()
+H.dZ(b.typeUniverse,JSON.parse('{"r2":{"aC":[],"k":[]},"b_x":{"bA":[],"bh":[],"k":[]}}'))
+var y={b:H.E("b_x")}}
+$__dart_deferred_initializers__["Ou96Xwb7niz3IM/OHo7Tw+WMixo="] = $__dart_deferred_initializers__.current
